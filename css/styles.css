@@ -42,6 +42,7 @@ footer nav a {
     sans-serif;
   color: #1a7589;
   text-decoration: none;
+  padding-block: 10px;
 }
 footer nav li {
   display: inline-block;
