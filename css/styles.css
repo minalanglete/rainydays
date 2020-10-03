@@ -37,3 +37,10 @@ header {
 .boldsemi {
   font-family: SemiBold Italic;
 }
+footer {
+  font-family: Gill sans nova;
+  color: #1a7589;
+}
+footer nav li {
+  display: inline-block;
+}
