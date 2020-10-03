@@ -37,10 +37,9 @@ header {
 .boldsemi {
   font-family: SemiBold Italic;
 }
-footer {
-  font-family: Gill sans nova;
+footer nav a {
+  font-family: "Gill Sans Nova", Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
   color: #1a7589;
-}
-footer nav li {
-  display: inline-block;
+  text-decoration: none;
 }
