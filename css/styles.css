@@ -32,3 +32,6 @@ header {
   text-decoration: underline 2px;
   color: #fd934e;
 }
+.boldsemi {
+  font-weight: SemiBold Italic;
+}
