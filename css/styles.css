@@ -79,3 +79,6 @@ h5 {
 p + h5 {
   color: #fd934e;
 }
+.upper {
+  text-transform: uppercase;
+}
