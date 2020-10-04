@@ -54,6 +54,10 @@ footer nav a {
   color: #1a7589;
   text-decoration: none;
 }
+footer nav li {
+  font-style: normal;
+  font-weight: bold;
+}
 .active {
   color: #1a7589;
 }
