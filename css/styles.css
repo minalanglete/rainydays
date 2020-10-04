@@ -84,7 +84,8 @@ p + h5 {
 .sale {
   text-transform: uppercase;
 }
-img.grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
+#example1 {
+  background-image: url(/images/backgroundfooter@2x.jpg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
 }
