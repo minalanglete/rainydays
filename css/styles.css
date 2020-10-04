@@ -10,8 +10,15 @@ h2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: normal;
   color: #851a89;
+}
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: italic;
+  color: #1a893f;
 }
 footer nav h4 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
