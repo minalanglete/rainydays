@@ -86,6 +86,6 @@ p + h5 {
 }
 #example1 {
   background-image: url(/images/backgroundfooter@2x.jpg);
-  background-position: right bottom, left top;
+  background-position: left bottom;
   background-repeat: no-repeat, repeat;
 }
