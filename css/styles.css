@@ -34,3 +34,9 @@ footer nav a {
   color: #1a7589;
   text-decoration: none;
 }
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  color: #1a7589;
+}
