@@ -81,6 +81,6 @@ p + h5 {
   color: #fd934e;
   font-size: 35px;
 }
-.upper {
+h5.sale {
   text-transform: uppercase;
 }
