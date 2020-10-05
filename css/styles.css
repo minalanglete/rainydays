@@ -93,14 +93,18 @@ footer {
 li {
   list-style-type: none;
 }
+footer table {
+  align-content: center;
+}
 th {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: bold;
   font-weight: bold;
   color: #1a7589;
+  text-align: left;
 }
-td {
+td a {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: normal;
@@ -108,4 +112,5 @@ td {
   color: #1a7589;
   text-decoration: none;
   padding: none;
+  text-align: left;
 }
