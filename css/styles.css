@@ -84,6 +84,8 @@ p + h5 {
 .sale {
   text-transform: uppercase;
 }
-table {
-  padding: none;
+footer {
+  background-image: url("../images/backgroundfooter@2x.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
