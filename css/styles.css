@@ -87,6 +87,4 @@ p + h5 {
 footer {
   background-image: url("../images/backgroundfooter@2x.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  max-width: 100%;
 }
