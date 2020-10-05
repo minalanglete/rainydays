@@ -54,7 +54,6 @@ footer nav a {
   color: #1a7589;
   text-decoration: none;
   padding: none;
-  list-style: none;
 }
 footer nav li {
   font-style: normal;
@@ -90,4 +89,7 @@ footer {
   background-repeat: no-repeat;
   background-size: 100%;
   text-align: center;
+}
+li {
+  list-style-type: none;
 }
