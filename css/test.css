@@ -12,6 +12,9 @@ header nav a {
   padding: 10px;
   text-transform: uppercase;
   text-align: center;
+}
+
+header nav li {
   display: inline-block;
 }
 
