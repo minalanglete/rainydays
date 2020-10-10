@@ -12,6 +12,7 @@ header nav a {
   padding: 10px;
   text-transform: uppercase;
   text-align: center;
+  display: inline-block;
 }
 
 header nav a:hover {
