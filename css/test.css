@@ -11,14 +11,13 @@ header nav a {
   text-decoration: none;
   padding: 10px;
   text-transform: uppercase;
-  border: 2px #494757;
-  top: 2px;
-  bottom: 2px;
 }
 
 header nav li {
   display: inline-block;
   align-content: center;
+  border-top: #494757 2px;
+  border-bottom: #494757 2px;
 }
 
 header nav a:hover {
