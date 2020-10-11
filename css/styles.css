@@ -113,6 +113,5 @@ td a {
   padding: 20px;
 }
 label::after {
-  content: "input";
   display: block;
 }
