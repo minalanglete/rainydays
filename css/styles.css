@@ -121,10 +121,11 @@ input {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
     "Trebuchet MS", sans-serif;
   font-size: 30px;
-  padding: 10px;
   color: #494757;
   text-transform: uppercase;
 }
-textarea {
+textarea,
+input {
   background-color: #fd934e;
+  margin: 10px;
 }
