@@ -8,7 +8,7 @@ header {
 }
 
 nav {
-  align-content: center;
+  box-sizing: border-box;
   border-top: #494757 2px;
   border-bottom: #494757 2px;
   clear: both;
