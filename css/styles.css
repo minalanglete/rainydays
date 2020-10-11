@@ -124,5 +124,7 @@ input {
   padding: 10px;
   color: #494757;
   text-transform: uppercase;
+}
+textarea {
   background-color: #fd934e;
 }
