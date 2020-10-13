@@ -1,6 +1,5 @@
 nav {
   display: none;
-  text-decoration: none;
 }
 #hamburger-menu {
   display: none;
@@ -8,4 +7,7 @@ nav {
 
 #hamburger-menu:checked ~ nav {
   display: block;
+}
+nav ul li {
+  list-style: none;
 }
