@@ -1,6 +1,9 @@
 nav {
   display: none;
 }
+#hamurgermenu {
+  display: none;
+}
 
 #hamburger-menu:checked ~ nav {
   display: block;
