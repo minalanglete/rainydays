@@ -1,7 +1,0 @@
-nav {
-  display: none;
-}
-
-#hamburger-menu:checked ~  nav {
-  display: block;
-}
