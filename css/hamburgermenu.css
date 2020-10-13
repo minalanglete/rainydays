@@ -1,5 +1,6 @@
 nav {
   display: none;
+  text-decoration: none;
 }
 #hamburger-menu {
   display: none;
