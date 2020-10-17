@@ -53,6 +53,16 @@ h1 {
   font-weight: normal;
   color: #1a7589;
 }
+h5 {
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: #1a7589;
+  text-transform: uppercase;
+}
+.banner {
+  display: flex;
+}
 
 /*footer*/
 footer {
