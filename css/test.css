@@ -60,6 +60,7 @@ h5 {
   color: #1a7589;
   text-transform: uppercase;
   display: inline-block;
+  padding: 30px;
 }
 .banner {
   display: flex;
