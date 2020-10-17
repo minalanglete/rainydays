@@ -12,8 +12,9 @@ header {
 nav {
   clear: both;
 }
-.nav1 {
-  text-align: center;
+.navcenter {
+  float: none;
+  position: absolute;
 }
 .nav2 {
   float: right;
