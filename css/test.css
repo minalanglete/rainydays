@@ -62,6 +62,7 @@ h5 {
 }
 .banner {
   display: flex;
+  size: 100%;
 }
 
 /*footer*/
