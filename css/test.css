@@ -64,6 +64,9 @@ h5 {
   display: flex;
   size: 100%;
 }
+.slogan {
+  text-align: center;
+}
 
 /*footer*/
 footer {
