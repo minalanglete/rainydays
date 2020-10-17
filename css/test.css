@@ -1,7 +1,7 @@
 /*header*/
 header {
   background-color: #f5f5f6;
-  position: sticky;
+  position: fixed;
 }
 
 .logo {
@@ -12,11 +12,10 @@ header {
 nav {
   clear: both;
 }
-.navcenter {
-  float: none;
-  position: absolute;
+.navcenter a {
+  position: center;
 }
-.nav2 {
+.navright {
   float: right;
 }
 
