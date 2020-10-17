@@ -75,7 +75,9 @@ main p {
   color: #494757;
   text-transform: uppercase;
 }
-
+p + h2 {
+  color: #fd934e;
+}
 /*footer*/
 footer {
   background-image: url("../images/backgroundfooter@2x.jpg");
