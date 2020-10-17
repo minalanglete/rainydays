@@ -101,5 +101,5 @@ h3 {
 .footer {
   display: flex;
   justify-content: center;
-  justify-content: space-between 100px;
+  padding: 100px;
 }
