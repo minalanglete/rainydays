@@ -1,8 +1,6 @@
 /*header*/
 header {
   background-color: #f5f5f6;
-  width: 1920px;
-  height: 165px;
 }
 
 .logo {
@@ -11,13 +9,11 @@ header {
 }
 
 nav {
+  box-sizing: border-box;
+  border: #494757;
+  border-top: #494757 2px;
+  border-bottom: #494757 2px;
   clear: both;
-}
-.navcenter a {
-  margin: auto;
-}
-.navright {
-  float: right;
 }
 
 header nav a {
@@ -26,7 +22,7 @@ header nav a {
   font-size: 30px;
   color: #494757;
   text-decoration: none;
-  padding: 20px;
+  padding: 10px;
   text-transform: uppercase;
 }
 
