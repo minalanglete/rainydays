@@ -75,6 +75,7 @@ main p {
   color: #fd934e;
   text-transform: uppercase;
   text-align: right;
+  margin-top: 15px;
 }
 p + h2 {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
