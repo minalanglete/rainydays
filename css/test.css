@@ -79,7 +79,7 @@ h4 {
   font-style: normal;
   font-weight: bold;
   color: #1a7589;
-  margin: 5px;
+  margin-bottom: 5px;
 }
 h2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -97,8 +97,8 @@ h3 {
 }
 .linkfooter {
   text-align: center;
+  margin-top: 150px;
 }
-
 .footer {
   display: flex;
   justify-content: space-evenly;
