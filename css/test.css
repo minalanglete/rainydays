@@ -59,6 +59,7 @@ h5 {
   font-size: 30px;
   color: #1a7589;
   text-transform: uppercase;
+  display: inline-block;
 }
 .banner {
   display: flex;
