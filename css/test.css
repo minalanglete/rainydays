@@ -59,7 +59,6 @@ footer {
   background-image: url("../images/backgroundfooter@2x.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
-  text-align: center;
 }
 .shop a,
 .rainydays a,
@@ -72,7 +71,6 @@ footer {
   font-style: normal;
   font-weight: normal;
   color: #1a7589;
-  text-align: left;
 }
 
 h4 {
