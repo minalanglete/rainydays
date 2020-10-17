@@ -97,3 +97,8 @@ h3 {
 .linkfooter {
   text-align: center;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
