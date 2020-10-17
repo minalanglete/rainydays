@@ -12,12 +12,11 @@ header {
 nav {
   clear: both;
 }
-li a {
-  box-sizing: border-box;
-  border: #494757;
-  border-top: #494757 2px;
-  border-bottom: #494757 2px;
-  align-content: center;
+.nav1 {
+  text-align: center;
+}
+.nav2 {
+  float: right;
 }
 
 header nav a {
