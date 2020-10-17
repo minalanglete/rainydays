@@ -65,7 +65,7 @@ h5 {
   size: 100%;
 }
 .slogan {
-  text-align: center;
+  display: center;
 }
 
 /*footer*/
