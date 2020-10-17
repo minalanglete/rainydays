@@ -61,7 +61,10 @@ footer {
   background-size: 100%;
   text-align: center;
 }
-.shop a {
+.shop a,
+.rainydays a,
+.help a,
+.signin a {
   display: block;
   text-decoration: none;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -69,6 +72,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   color: #1a7589;
+  text-align: left;
 }
 
 h4 {
