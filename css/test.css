@@ -45,6 +45,7 @@ header nav a:hover {
 .top {
   float: right;
   align-items: baseline;
+  background-color: #fd934e;
 }
 
 /*body*/
