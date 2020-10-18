@@ -75,7 +75,6 @@ main p {
   color: #fd934e;
   text-transform: uppercase;
   text-align: right;
-  margin-top: 15px;
 }
 p + h2 {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -84,6 +83,15 @@ p + h2 {
   color: #494757;
   text-transform: uppercase;
   text-align: right;
+}
+
+.bannertext {
+  position: relative;
+}
+.running {
+  position: absolute;
+  top: 20px;
+  left: 100px;
 }
 /*footer*/
 footer {
