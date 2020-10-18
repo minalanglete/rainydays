@@ -39,11 +39,12 @@ header nav a:hover {
   font-size: 30px;
   color: #1a7589;
   text-decoration: none;
-  padding: 20px;
+  padding: 10px;
   text-transform: uppercase;
 }
 .top {
   display: flex;
+  align-items: center;
 }
 
 /*body*/
