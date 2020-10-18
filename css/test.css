@@ -50,12 +50,14 @@ header nav a:hover {
 /*body*/
 .item1 {
   display: flex;
+  margin-bottom: 70px;
 }
 .row1 {
   flex: 50%;
 }
 .item2 {
   display: flex;
+  margin-bottom: 190px;
 }
 .row2 {
   flex: 33.33%;
