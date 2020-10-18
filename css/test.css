@@ -44,7 +44,8 @@ header nav a:hover {
 }
 .top {
   display: flex;
-  align-items: center;
+  align-items: baseline;
+  justify-content: end;
 }
 
 /*body*/
