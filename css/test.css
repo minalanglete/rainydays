@@ -39,9 +39,11 @@ header nav a:hover {
   font-size: 30px;
   color: #1a7589;
   text-decoration: none;
-  padding: 10px;
+  padding: 20px;
   text-transform: uppercase;
   float: right;
+  display: flex;
+  align-items: baseline;
 }
 
 /*body*/
