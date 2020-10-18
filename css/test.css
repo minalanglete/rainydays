@@ -10,6 +10,8 @@ header {
 
 nav {
   clear: both;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 header nav a {
