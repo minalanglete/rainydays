@@ -50,8 +50,8 @@ header nav a:hover {
 /*body*/
 section .item {
   display: grid;
-  grid-template-columns: auto 1fr 1fr;
-  grid-template-rows: auto;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
   grid-gap: 10px;
 }
 h1 {
