@@ -57,7 +57,7 @@ h5 {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
     "Trebuchet MS", sans-serif;
   font-size: 30px;
-  color: #1a7589;
+  color: #ffffff;
   text-transform: uppercase;
   display: inline-block;
 }
@@ -112,7 +112,9 @@ p + h2 {
   top: 80px;
   left: 1560px;
 }
-
+body {
+  margin-bottom: 60 px;
+}
 /*footer*/
 footer {
   background-image: url("../images/backgroundfooter@2x.jpg");
