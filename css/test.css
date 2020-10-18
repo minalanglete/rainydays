@@ -54,6 +54,12 @@ header nav a:hover {
 .row1 {
   flex: 50%;
 }
+.item2 {
+  display: flex;
+}
+.row2 {
+  flex: 33, 3%;
+}
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 35px;
