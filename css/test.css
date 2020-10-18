@@ -42,6 +42,8 @@ header nav a:hover {
   padding: 20px;
   text-transform: uppercase;
   float: right;
+}
+tr {
   display: flex;
   align-items: baseline;
 }
