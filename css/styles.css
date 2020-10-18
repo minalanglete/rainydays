@@ -235,6 +235,7 @@ h3 {
   color: #494757;
   text-transform: lowercase;
   margin-left: 700px;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
+}
+main {
+  margin-bottom: 50px;
 }
