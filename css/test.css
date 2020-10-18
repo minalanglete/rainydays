@@ -1,6 +1,7 @@
 /*header*/
 header {
   background-color: #f5f5f6;
+  clear: both;
 }
 
 .logo {
@@ -9,7 +10,6 @@ header {
 }
 
 nav {
-  clear: both;
   display: flex;
   justify-content: space-evenly;
 }
@@ -41,7 +41,6 @@ header nav a:hover {
   text-decoration: none;
   padding: 10px;
   text-transform: uppercase;
-  align-items: baseline;
 }
 .top {
   float: right;
