@@ -51,9 +51,13 @@ header nav a:hover {
 .item1 {
   display: flex;
   margin-bottom: 70px;
+  position: relative;
 }
 .row1 {
   flex: 50%;
+}
+.img1 {
+  position: absolute;
 }
 .item2 {
   display: flex;
