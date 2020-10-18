@@ -41,11 +41,10 @@ header nav a:hover {
   text-decoration: none;
   padding: 10px;
   text-transform: uppercase;
+  align-items: baseline;
 }
 .top {
   float: right;
-  align-items: baseline;
-  background-color: #fd934e;
 }
 
 /*body*/
