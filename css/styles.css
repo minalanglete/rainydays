@@ -228,3 +228,7 @@ h3 {
   display: inline-block;
   width: 395px;
 }
+.titletext {
+  font-weight: bold;
+  font-size: 25px;
+}
