@@ -119,7 +119,7 @@ main p {
   font-size: 35px;
   color: #fd934e;
   text-transform: uppercase;
-  text-align: right;
+  text-align: left;
 }
 p + h2 {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -127,6 +127,7 @@ p + h2 {
   font-size: 35px;
   color: #ffffff;
   text-transform: uppercase;
+  text-align: right;
 }
 
 .bannertext {
