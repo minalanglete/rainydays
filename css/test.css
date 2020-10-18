@@ -63,7 +63,6 @@ h5 {
 }
 .banner {
   display: flex;
-  width: auto;
 }
 .slogan {
   text-align: center;
@@ -90,8 +89,8 @@ p + h2 {
 }
 .running {
   position: absolute;
-  top: 5px;
-  left: 250px;
+  top: 50px;
+  left: 10px;
 }
 /*footer*/
 footer {
