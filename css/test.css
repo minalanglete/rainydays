@@ -63,7 +63,7 @@ h5 {
 }
 .banner {
   display: flex;
-  width: fit-content;
+  width: auto;
 }
 .slogan {
   text-align: center;
