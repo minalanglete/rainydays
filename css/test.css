@@ -68,9 +68,30 @@ header nav a:hover {
 }
 .img1 {
   position: absolute;
-  top: 200px;
+  top: 220px;
   left: 180px;
 }
+.img2 {
+  position: absolute;
+  top: 220px;
+  left: 380px;
+}
+.img3 {
+  position: absolute;
+  top: 420px;
+  left: 180px;
+}
+.img4 {
+  position: absolute;
+  top: 420px;
+  left: 380px;
+}
+.img5 {
+  position: absolute;
+  top: 420px;
+  left: 680px;
+}
+
 h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 35px;
