@@ -227,10 +227,12 @@ h3 {
   color: #494757;
   width: 395px;
   text-transform: lowercase;
+  margin-left: 400px;
 }
 .titletext {
   font-weight: bold;
   font-size: 25px;
   color: #494757;
   text-transform: lowercase;
+  margin-left: 400px;
 }
