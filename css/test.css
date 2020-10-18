@@ -12,6 +12,7 @@ nav {
   clear: both;
   display: flex;
   justify-content: space-evenly;
+  padding: 20px;
 }
 
 header nav a {
