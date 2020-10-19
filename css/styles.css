@@ -53,6 +53,9 @@ header nav a:hover {
 .top a:hover {
   color: #fd934e;
 }
+.top .current {
+  color: #fd934e;
+}
 
 /*body*/
 
