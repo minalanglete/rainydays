@@ -32,6 +32,10 @@ header nav li {
 header nav a:hover {
   color: #fd934e;
 }
+header nav a:active {
+  color: #fd934e;
+  text-decoration: underline;
+}
 
 .toppnav {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
