@@ -50,6 +50,9 @@ header nav a:hover {
 .top {
   float: right;
 }
+.top a:hover {
+  color: #fd934e;
+}
 
 /*body*/
 
