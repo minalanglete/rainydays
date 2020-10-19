@@ -224,7 +224,6 @@ h3 {
     "Trebuchet MS", sans-serif;
   font-size: 60px;
   color: #494757;
-  text-transform: uppercase;
   text-align: center;
 }
 .text {
@@ -239,4 +238,8 @@ h3 {
   font-weight: bold;
   font-size: 25px;
   color: #494757;
+}
+.faq {
+  width: 390px;
+  margin: auto;
 }
