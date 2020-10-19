@@ -49,9 +49,6 @@ header nav a:hover {
 
 /*body*/
 
-img {
-  max-width: 100%;
-}
 .item1 {
   display: flex;
   margin-bottom: 70px;
@@ -241,5 +238,6 @@ h3 {
   margin-left: 700px;
 }
 main {
+  max-width: 100%;
   margin-bottom: 250px;
 }
