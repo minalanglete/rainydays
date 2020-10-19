@@ -32,7 +32,7 @@ header nav li {
 header nav a:hover {
   color: #fd934e;
 }
-nav .current {
+.nav .current {
   color: #fd934e;
   text-decoration: underline;
 }
