@@ -243,5 +243,5 @@ h3 {
 }
 .faq {
   width: 390px;
-  margin: auto;
+  margin: auto auto 150px auto;
 }
