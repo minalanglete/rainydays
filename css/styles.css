@@ -225,6 +225,7 @@ h3 {
   font-size: 60px;
   color: #494757;
   text-align: center;
+  text-transform: uppercase;
 }
 .text {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -232,12 +233,13 @@ h3 {
   font-style: normal;
   font-weight: normal;
   color: #494757;
-  width: 395px;
+  text-transform: none;
 }
 .titletext {
   font-weight: bold;
   font-size: 25px;
   color: #494757;
+  text-transform: none;
 }
 .faq {
   width: 390px;
