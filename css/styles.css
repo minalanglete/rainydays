@@ -293,7 +293,7 @@ h3 {
   margin-top: 50px;
 }
 .name .mail {
-  color: #c6c4ca;
+  background-color: #c6c4ca;
   width: 396;
   height: 50;
 }
@@ -303,6 +303,7 @@ h3 {
   font-size: 25px;
   color: #ffffff;
   text-transform: uppercase;
+  background-color: #c6c4ca;
   width: 396px;
   height: 260px;
 }
