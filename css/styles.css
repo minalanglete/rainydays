@@ -311,6 +311,7 @@ h3 {
   width: 396px;
   height: 260px;
   border: none;
+  text-align: -10px;
 }
 .send {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -324,5 +325,4 @@ h3 {
   border: none;
   margin-top: 20px;
   letter-spacing: 5px;
-  align-content: center;
 }
