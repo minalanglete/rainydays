@@ -273,3 +273,18 @@ h3 {
   color: #494757;
   text-transform: uppercase;
 }
+.subtitle2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  color: #494757;
+  text-transform: uppercase;
+}
+.linktitle {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: normal;
+  color: #494757;
+}
