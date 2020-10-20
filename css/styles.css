@@ -234,14 +234,13 @@ h3 {
   font-weight: normal;
   color: #494757;
   text-transform: none;
-  margin-top: none;
 }
 .titletext {
   font-weight: bold;
   font-size: 25px;
   color: #494757;
   text-transform: none;
-  margin: none;
+  padding: 5px;
 }
 .faq {
   width: 390px;
