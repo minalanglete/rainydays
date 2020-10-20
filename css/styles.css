@@ -247,3 +247,16 @@ h3 {
   width: 390px;
   margin: auto auto 150px auto;
 }
+
+/*contact us*/
+
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+.left {
+  flex: 1;
+}
+.right {
+  flex: 1;
+}
