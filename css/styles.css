@@ -252,9 +252,11 @@ h3 {
 
 .left {
   grid-area: left;
+  text-align: center;
 }
 .right {
   grid-area: right;
+  text-align: center;
 }
 
 .contact {
