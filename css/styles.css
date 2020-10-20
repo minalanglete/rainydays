@@ -266,4 +266,10 @@ h3 {
   margin: auto;
   grid-template-areas: "left right";
 }
-.subtitle
+.subtitle {
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 35px;
+  color: #494757;
+  text-transform: uppercase;
+}
