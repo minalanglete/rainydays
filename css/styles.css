@@ -255,6 +255,7 @@ h3 {
   flex-direction: column;
 }
 .left {
+  background-color: aqua;
   flex: 1;
 }
 .right {
