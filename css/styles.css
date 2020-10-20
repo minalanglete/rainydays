@@ -250,14 +250,17 @@ h3 {
 
 /*contact us*/
 
-.contact {
-  display: flex;
-  flex-direction: column;
-}
 .left {
-  background-color: aqua;
-  flex: 1;
+  grid-area: left;
 }
 .right {
-  flex: 1;
+  grid-area: right;
+}
+
+.contact {
+  display: grid;
+  grid-gap: 70px;
+  max-width: 850px;
+  margin: auto;
+  grid-template-areas: "left right";
 }
