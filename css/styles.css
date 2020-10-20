@@ -282,7 +282,7 @@ h3 {
   font-weight: bold;
   color: #494757;
   text-transform: uppercase;
-  margin-top: 10px;
+  margin-top: 40px;
 }
 .linktitle {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -290,5 +290,5 @@ h3 {
   font-style: italic;
   font-weight: normal;
   color: #494757;
-  margin-top: 25px;
+  margin-top: 50px;
 }
