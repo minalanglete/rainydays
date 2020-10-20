@@ -235,7 +235,7 @@ h3 {
   color: #494757;
   text-transform: none;
   background-color: aqua;
-  margin: 5px auto auto auto;
+  border-collapse: collapse;
 }
 .titletext {
   font-weight: bold;
