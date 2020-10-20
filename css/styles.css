@@ -298,6 +298,8 @@ h3 {
   background-color: #c6c4ca;
   width: 396px;
   height: 50px;
+  padding: 10px;
+  border: none;
 }
 .question {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -308,7 +310,5 @@ h3 {
   background-color: #c6c4ca;
   width: 396px;
   height: 260px;
-}
-form {
-  padding: 10px;
+  border: none;
 }
