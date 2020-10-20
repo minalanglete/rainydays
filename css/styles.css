@@ -234,6 +234,7 @@ h3 {
   font-weight: normal;
   color: #494757;
   text-transform: none;
+  margin-top: none;
 }
 .titletext {
   font-weight: bold;
