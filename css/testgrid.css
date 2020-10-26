@@ -13,9 +13,11 @@ header {
 }
 
 .logo {
-  float: center;
-  max-width: 368px;
-  max-height: 197px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 368.33px;
+  height: 197.65px;
 }
 
 nav {
