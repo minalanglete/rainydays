@@ -27,9 +27,6 @@ header nav a {
   text-transform: uppercase;
   padding: 20px;
 }
-header nav li {
-  display: inline-block;
-}
 
 header nav a:hover,
 .top a:hover {
