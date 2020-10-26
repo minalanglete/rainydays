@@ -1,0 +1,141 @@
+/*body*/
+body {
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: #494757;
+  text-decoration: none;
+}
+
+/*header*/
+header {
+  background-color: #f5f5f6;
+}
+
+.logo {
+  float: left;
+  max-width: 368px;
+}
+
+nav {
+  clear: both;
+  display: flex;
+  justify-content: space-evenly;
+}
+header nav a {
+  padding: 10px;
+  text-transform: uppercase;
+  padding: 20px;
+}
+header nav li {
+  display: inline-block;
+}
+
+header nav a:hover,
+.top a:hover {
+  color: #fd934e;
+}
+.nav .current {
+  color: #fd934e;
+  text-decoration: underline;
+}
+.toppnav {
+  color: #1a7589;
+  padding: 5px;
+  text-transform: uppercase;
+  display: inline;
+}
+.top {
+  float: right;
+}
+/*main*/
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: normal;
+  color: #1a7589;
+}
+h5 {
+  font-size: 30px;
+  color: #ffffff;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+/*banner*/
+.banner {
+  display: flex;
+}
+.slogan {
+  text-align: center;
+}
+.bannertext {
+  position: relative;
+}
+.hiking {
+  position: absolute;
+  top: 80px;
+  left: 20px;
+}
+.camping {
+  position: absolute;
+  top: 80px;
+  left: 400px;
+}
+.sightseing {
+  position: absolute;
+  top: 80px;
+  left: 790px;
+}
+.skiing {
+  position: absolute;
+  top: 80px;
+  left: 1170px;
+}
+.running {
+  position: absolute;
+  top: 80px;
+  left: 1560px;
+}
+
+/*footer*/
+footer {
+  background-image: url("../images/backgroundfooter@2x.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 60px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #1a7589;
+  font-size: 20px;
+  text-decoration: none;
+}
+.shop a,
+.rainydays a,
+.help a,
+.signin a {
+  display: block;
+  font-style: normal;
+  font-weight: normal;
+}
+h4 {
+  font-style: normal;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+h2 {
+  font-style: normal;
+  font-weight: normal;
+}
+h3 {
+  font-style: italic;
+  font-weight: normal;
+}
+.linkfooter {
+  text-align: center;
+  margin-top: 100px;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+}
