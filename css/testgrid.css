@@ -13,7 +13,7 @@ header {
 }
 
 .logo {
-  display: block;
+  max-width: 368px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -49,7 +49,7 @@ header nav a:hover,
   display: inline;
 }
 .top {
-  float: right top;
+  float: right;
 }
 /*main*/
 h1 {
