@@ -63,6 +63,9 @@ h5 {
   text-transform: uppercase;
   display: inline-block;
 }
+.jacketmen {
+  padding: 10px;
+}
 
 /*banner*/
 .banner {
