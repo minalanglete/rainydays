@@ -128,10 +128,12 @@ h4 {
 h2 {
   font-style: normal;
   font-weight: normal;
+  font-size: 20px;
 }
 h3 {
   font-style: italic;
   font-weight: normal;
+  font-size: 20px;
 }
 .linkfooter {
   text-align: center;
