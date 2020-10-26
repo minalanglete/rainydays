@@ -13,8 +13,9 @@ header {
 }
 
 .logo {
-  float: left;
+  float: center;
   max-width: 368px;
+  max-height: 197px;
 }
 
 nav {
