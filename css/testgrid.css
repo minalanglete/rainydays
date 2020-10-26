@@ -5,6 +5,7 @@ body {
   font-size: 30px;
   color: #494757;
   text-decoration: none;
+  max-width: 100%;
 }
 
 /*header*/
