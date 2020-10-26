@@ -24,7 +24,10 @@ header nav a {
   color: #494757;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 2px 20px 2px 20px;
+  padding: 20px;
+}
+header nav li {
+  display: inline-block;
 }
 
 header nav a:hover,
