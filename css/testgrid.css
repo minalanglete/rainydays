@@ -24,6 +24,10 @@ header nav a {
   color: #494757;
   text-decoration: none;
   text-transform: uppercase;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 header nav li {
   display: inline-block;
