@@ -16,6 +16,7 @@ nav {
   clear: both;
   display: flex;
   justify-content: space-evenly;
+  border: 2px solid #494757;
 }
 header nav a {
   color: #494757;
