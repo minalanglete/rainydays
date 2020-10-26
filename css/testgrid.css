@@ -16,8 +16,6 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 368.33px;
-  height: 197.65px;
 }
 
 nav {
@@ -51,7 +49,7 @@ header nav a:hover,
   display: inline;
 }
 .top {
-  float: right;
+  float: right top;
 }
 /*main*/
 h1 {
