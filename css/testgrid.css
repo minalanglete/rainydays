@@ -17,6 +17,7 @@ nav {
   display: flex;
   justify-content: space-evenly;
   border: 4px solid #494757;
+  padding: 2px;
   background-color: aqua;
 }
 header nav a {
