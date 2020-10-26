@@ -16,14 +16,14 @@ nav {
   clear: both;
   display: flex;
   justify-content: space-evenly;
-  border: 4px solid top bottom #494757;
+  border: 4px solid #494757;
+  background-color: aqua;
 }
 header nav a {
   color: #494757;
   text-decoration: none;
   text-transform: uppercase;
   padding: 2px 20px 2px 20px;
-  background-color: aqua;
 }
 header nav li {
   display: inline-block;
