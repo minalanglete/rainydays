@@ -18,6 +18,8 @@ header {
 }
 
 nav {
+  color: #494757;
+  text-decoration: none;
   clear: both;
   display: flex;
   justify-content: space-evenly;
