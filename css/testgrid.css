@@ -10,7 +10,6 @@ body {
 /*header*/
 header {
   background-color: #f5f5f6;
-  position: relative;
 }
 
 nav {
@@ -21,8 +20,6 @@ nav {
   max-height: 60px;
   background-color: aqua;
   backdrop-filter: blur(5px);
-  position: sticky;
-  top: 0;
 }
 header nav a {
   color: #494757;
@@ -145,4 +142,32 @@ h3 {
 .footer {
   display: flex;
   justify-content: space-evenly;
+}
+
+/*grid*/
+
+header {
+  grid-area: header;
+}
+nav {
+  grid-area: nav;
+}
+main {
+  grid-area: main;
+}
+aside {
+  grid-area: aside;
+}
+footer {
+  grid-area: footer;
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "nav nav"
+    "main main"
+    "aside aside"
+    "footer footer";
 }
