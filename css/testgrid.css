@@ -23,13 +23,13 @@ nav {
   border-bottom: 4px solid #494757;
   background-color: aqua;
   backdrop-filter: blur(5px);
-  padding: 5px;
 }
 header nav a {
   color: #494757;
   text-decoration: none;
   text-transform: uppercase;
   padding: 20px;
+  color: blue;
 }
 header nav li {
   display: inline-block;
