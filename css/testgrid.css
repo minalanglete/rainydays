@@ -29,7 +29,7 @@ header nav a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 20px;
-  color: blue;
+  background-color: blue;
 }
 header nav li {
   display: inline-block;
