@@ -61,6 +61,10 @@ header nav a:hover,
   float: right;
   padding: 6px;
   border: none;
+  color: #494757;
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 30px;
 }
 
 /*main*/
