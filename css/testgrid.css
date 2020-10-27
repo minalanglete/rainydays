@@ -57,6 +57,12 @@ header nav a:hover,
   text-align: right;
   padding-left: 400px;
 }
+.nav input[type="text"] {
+  float: right;
+  padding: 6px;
+  border: none;
+}
+
 /*main*/
 main {
   margin-bottom: 240px;
