@@ -94,13 +94,10 @@ h5 {
   left: 1455px;
 }
 .textrun {
-  color: #fd934e
+  color: #fd934e;
   font-size: 90px;
   text-transform: uppercase;
-  position: absolute;
-  top: 1585px;
-  left: 455px;
-}
+
 
 /*banner*/
 .banner {
