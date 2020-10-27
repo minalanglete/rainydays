@@ -17,6 +17,7 @@ header {
 }
 nav {
   clear: both;
+  text-align: center;
   border-top: 4px solid #494757;
   border-bottom: 4px solid #494757;
   background-color: aqua;
@@ -32,6 +33,7 @@ header nav a {
 }
 header nav li {
   display: inline-block;
+  padding: 0px;
 }
 
 header nav a:hover,
