@@ -13,7 +13,7 @@ header {
   background-color: #f5f5f6;
 }
 .logo {
-  margin-left: 50px;
+  margin-left: 200px;
 }
 nav {
   clear: both;
@@ -51,6 +51,8 @@ header nav a:hover,
 }
 .top {
   float: right;
+  margin-right: 200px;
+  padding: 20px;
 }
 /*main*/
 main {
