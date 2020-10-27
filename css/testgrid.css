@@ -56,7 +56,9 @@ header nav a:hover,
 .search {
   padding-left: 600px;
 }
-
+.glas {
+  color: #fd934e;
+}
 /*main*/
 main {
   margin-bottom: 240px;
