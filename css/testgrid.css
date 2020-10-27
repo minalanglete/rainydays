@@ -6,11 +6,13 @@ body {
   color: #494757;
   text-decoration: none;
   max-width: 100%;
+  margin: 0px;
 }
 
 /*header*/
 header {
   background-color: #f5f5f6;
+  position: fixed;
 }
 .logo {
   margin-left: 100px;
