@@ -26,7 +26,6 @@ nav {
   border-top: 4px solid #494757;
   border-bottom: 4px solid #494757;
   background-color: #ffffff;
-  backdrop-filter: blur(50px);
 }
 
 header nav a {
@@ -49,7 +48,6 @@ header nav a:hover,
 }
 .toppnav {
   color: #1a7589;
-  padding: 5px;
   text-transform: uppercase;
   display: inline;
   padding: 10px;
@@ -148,6 +146,7 @@ footer {
   color: #1a7589;
   font-size: 20px;
   text-decoration: none;
+  width: 100%;
 }
 .shop a,
 .rainydays a,
