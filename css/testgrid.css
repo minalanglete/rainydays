@@ -53,7 +53,9 @@ header nav a:hover,
   float: right;
   margin-right: 20px;
 }
-
+.test {
+  float: right;
+}
 /*main*/
 main {
   margin-bottom: 240px;
