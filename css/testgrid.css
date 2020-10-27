@@ -75,9 +75,7 @@ h5 {
   position: relative;
   margin-bottom: 40px;
 }
-.img2 {
-  position: relative;
-}
+
 .textmen {
   position: absolute;
   top: 430px;
@@ -93,11 +91,6 @@ h5 {
   top: 585px;
   left: 1455px;
 }
-.textrun {
-  color: #fd934e;
-  font-size: 90px;
-  text-transform: uppercase;
-
 
 /*banner*/
 .banner {
