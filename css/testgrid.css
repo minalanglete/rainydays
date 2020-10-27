@@ -17,14 +17,13 @@ header {
 }
 nav {
   clear: both;
-  display: block;
   text-align: center;
   border-top: 4px solid #494757;
   border-bottom: 4px solid #494757;
   background-color: aqua;
   backdrop-filter: blur(5px);
-  min-height: 60px;
 }
+
 header nav a {
   color: #494757;
   text-decoration: none;
