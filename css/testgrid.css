@@ -22,6 +22,7 @@ nav {
   border-bottom: 4px solid #494757;
   background-color: aqua;
   backdrop-filter: blur(5px);
+  height: 60px;
 }
 
 header nav a {
@@ -33,7 +34,6 @@ header nav a {
 }
 header nav li {
   display: inline-block;
-  margin: 0px;
 }
 
 header nav a:hover,
