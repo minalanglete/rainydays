@@ -23,7 +23,7 @@ nav {
   border-bottom: 4px solid #494757;
   background-color: aqua;
   backdrop-filter: blur(5px);
-  padding: none;
+  padding: 5px;
 }
 header nav a {
   color: #494757;
