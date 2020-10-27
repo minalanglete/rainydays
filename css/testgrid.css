@@ -22,7 +22,6 @@ nav {
   border-bottom: 4px solid #494757;
   background-color: #ffffff;
   backdrop-filter: blur(5px);
-  position: relative;
 }
 
 header nav a {
@@ -53,11 +52,6 @@ header nav a:hover,
 .top {
   float: right;
   margin-right: 20px;
-}
-.search {
-  position: absolute;
-  float: right;
-  top: 200px;
 }
 
 /*main*/
