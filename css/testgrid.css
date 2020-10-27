@@ -87,8 +87,16 @@ h5 {
   border: 2px solid #ffffff;
   width: 470px;
   position: absolute;
-  top: 580px;
+  top: 585px;
   left: 1455px;
+}
+.textrun {
+  color: #ffffff;
+  font-size: 90px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 1585px;
+  left: 455px;
 }
 
 /*banner*/
