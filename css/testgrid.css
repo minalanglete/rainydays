@@ -20,9 +20,8 @@ nav {
   text-align: center;
   border-top: 4px solid #494757;
   border-bottom: 4px solid #494757;
-  background-color: aqua;
+  background-color: #ffffff;
   backdrop-filter: blur(5px);
-  height: 60px;
 }
 
 header nav a {
@@ -30,7 +29,6 @@ header nav a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 0px 20px 0px 20px;
-  background-color: blue;
 }
 header nav li {
   display: inline-block;
