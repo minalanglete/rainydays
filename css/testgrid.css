@@ -102,7 +102,6 @@ h5 {
 /*banner*/
 .banner {
   display: flex;
-  width: 100%;
 }
 .slogan {
   text-align: center;
@@ -146,7 +145,7 @@ footer {
   color: #1a7589;
   font-size: 20px;
   text-decoration: none;
-  width: 100%;
+  width: auto;
 }
 .shop a,
 .rainydays a,
