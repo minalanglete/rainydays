@@ -57,6 +57,7 @@ header nav a:hover,
 .search {
   position: absolute;
   float: right;
+  top: 200px;
 }
 
 /*main*/
