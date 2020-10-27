@@ -162,9 +162,7 @@ aside {
 footer {
   grid-area: footer;
 }
-.img1 {
-  grid-area: img1;
-}
+
 .img2 {
   grid-area: img2;
 }
@@ -184,10 +182,8 @@ body {
     "aside aside"
     "footer footer";
 }
-main {
+.jacketmen {
   display: grid;
-  padding: 10px;
-  grid-template-areas:
-    "img1 img1 img1 img1 img1"
-    "img2 img2 img3 img4 img4";
+  grid-gap: 10px;
+  grid-template-areas: "img2 img2 img3 img4 img4";
 }
