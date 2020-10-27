@@ -83,6 +83,13 @@ h5 {
   font-size: 90px;
   text-transform: uppercase;
 }
+.hrmen {
+  border: 2px solid #ffffff;
+  width: 450px;
+  position: absolute;
+  top: 450px;
+  left: 1450px;
+}
 
 /*banner*/
 .banner {
