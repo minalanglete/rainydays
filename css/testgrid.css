@@ -73,6 +73,9 @@ h5 {
   position: absolute;
   top: 450px;
   left: 1300px;
+  color: #ffffff;
+  font-size: 80px;
+  text-transform: uppercase;
 }
 
 /*banner*/
