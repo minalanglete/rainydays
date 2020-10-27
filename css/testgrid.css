@@ -54,11 +54,9 @@ header nav a:hover,
   margin-right: 20px;
 }
 .search {
-  text-align: right;
   padding-left: 400px;
 }
 .nav input[type="text"] {
-  float: right;
   border: none;
   color: #494757;
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
