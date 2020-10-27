@@ -26,7 +26,7 @@ nav {
   border-top: 4px solid #494757;
   border-bottom: 4px solid #494757;
   background-color: #ffffff;
-  backdrop-filter: blur;
+  backdrop-filter: blur(50px);
 }
 
 header nav a {
