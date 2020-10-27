@@ -28,7 +28,7 @@ header nav a {
   color: #494757;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 20px;
+  padding: 0px 20px 0px 20px;
   background-color: blue;
 }
 header nav li {
