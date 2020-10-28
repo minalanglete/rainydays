@@ -227,10 +227,6 @@ body {
 .img2,
 .img3,
 .img4,
-.imgbanner1,
-.imgbanner2,
-.imgbanner3,
-.imgbanner4,
-.imgbanner5 {
+.imgbanner {
   width: 100%;
 }
