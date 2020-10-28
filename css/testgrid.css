@@ -76,6 +76,20 @@ h1 {
 .img1 {
   margin-bottom: 40px;
 }
+.container7,
+.container8,
+.container9 {
+  position: relative;
+  text-align: center;
+}
+.text,
+.text1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .container {
   position: relative;
   text-align: center;
