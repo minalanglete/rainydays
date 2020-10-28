@@ -72,13 +72,7 @@ h1 {
   font-weight: normal;
   color: #1a7589;
 }
-h5 {
-  font-size: 30px;
-  color: #ffffff;
-  background-color: aqua;
-  text-transform: uppercase;
-  display: inline-block;
-}
+
 .img1 {
   margin-bottom: 40px;
 }
@@ -159,7 +153,6 @@ h5 {
   left: 16px;
   font-size: 30px;
   color: #ffffff;
-  background-color: aqua;
   text-transform: uppercase;
 }
 
