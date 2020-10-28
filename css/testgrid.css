@@ -6,6 +6,7 @@ body {
   color: #494757;
   text-decoration: none;
   margin: 0px;
+  width: 100%;
 }
 
 /*header*/
@@ -101,7 +102,8 @@ h5 {
 .img2,
 .img3,
 .img4,
-.imgbanner {
+.imgbanner,
+aside {
   width: 100%;
 }
 
