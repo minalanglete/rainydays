@@ -98,6 +98,13 @@ h5 {
   top: 585px;
   left: 1455px;
 }
+.img1,
+.img2,
+.img3,
+.img4,
+.imgbanner {
+  width: 100%;
+}
 
 /*banner*/
 .banner {
@@ -223,10 +230,4 @@ body {
   display: grid;
   grid-gap: 20px;
   grid-template-areas: "img2 img2 img3 img4 img4";
-}
-.img1,
-.img2,
-.img3,
-.img4 {
-  width: 100%;
 }
