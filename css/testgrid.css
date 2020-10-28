@@ -98,10 +98,13 @@ h1 {
 }
 .hrtext {
   position: absolute;
-  bottom: 100px;
-  right: 20px;
+  bottom: 80px;
+  right: 0px;
 }
-
+.line2 {
+  border: 2px solid #ffffff;
+  width: 200px;
+}
 .container {
   position: relative;
   text-align: center;
