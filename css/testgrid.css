@@ -107,10 +107,28 @@ h5 {
 }
 
 /*banner*/
+.imgbanner1 {
+  grid-area: imgbanner1;
+}
+.imgbanner2 {
+  grid-area: imgbanner2;
+}
+.imgbanner3 {
+  grid-area: imgbanner3;
+}
+.imgbanner4 {
+  grid-area: imgbanner4;
+}
+.imgbanner5 {
+  grid-area: imgbanner5;
+}
+
 .banner {
-  display: flex;
+  display: grid;
+  grid-template-areas: "imgbanner1 imgbanner2 imgbanner3 imgbanner4 imgbanner5";
   width: 100%;
 }
+
 .slogan {
   text-align: center;
 }
