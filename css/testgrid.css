@@ -144,15 +144,13 @@ h5 {
 .container2 {
   position: relative;
 }
-
-.bannertext {
-  position: relative;
-}
 .hiking {
   position: absolute;
-  bottom: 10px;
-  left: 20px;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  right: 16px;
+}
+.bannertext {
+  position: relative;
 }
 .camping {
   position: absolute;
