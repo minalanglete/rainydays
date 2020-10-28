@@ -211,6 +211,7 @@ footer {
 
 body {
   display: grid;
+  width: 100%;
   grid-template-areas:
     "header header"
     "nav nav"
@@ -226,7 +227,6 @@ body {
 .img1,
 .img2,
 .img3,
-.img4,
-.imgbanner {
+.img4 {
   width: 100%;
 }
