@@ -141,7 +141,11 @@ h5 {
 .slogan {
   text-align: center;
 }
-.container2 {
+.container2,
+.container3,
+.container4,
+.container5,
+.container6 {
   position: relative;
 }
 .hiking {
@@ -150,28 +154,29 @@ h5 {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.bannertext {
-  position: relative;
-}
 .camping {
   position: absolute;
-  top: 80px;
-  left: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .sightseing {
   position: absolute;
-  top: 80px;
-  left: 790px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .skiing {
   position: absolute;
-  top: 80px;
-  left: 1170px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .running {
   position: absolute;
-  top: 80px;
-  left: 1560px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*footer*/
