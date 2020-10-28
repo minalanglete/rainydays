@@ -95,10 +95,12 @@ h5 {
 }
 .hrmen {
   position: absolute;
-  border: 2px solid #ffffff;
-  width: 500px;
   bottom: 120px;
   right: 0px;
+}
+.line {
+  border: 2px solid #ffffff;
+  width: 500px;
 }
 .img1,
 .img2,
