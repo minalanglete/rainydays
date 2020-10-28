@@ -90,6 +90,7 @@ h5 {
   color: #ffffff;
   font-size: 90px;
   text-transform: uppercase;
+  width: 100%;
 }
 .hrmen {
   border: 2px solid #ffffff;
@@ -97,6 +98,7 @@ h5 {
   position: absolute;
   top: 585px;
   left: 1455px;
+  width: 100%;
 }
 .img1,
 .img2,
