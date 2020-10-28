@@ -78,8 +78,10 @@ h5 {
   text-transform: uppercase;
   display: inline-block;
 }
-.img1 {
+.container {
   position: relative;
+}
+.img1 {
   margin-bottom: 40px;
 }
 
