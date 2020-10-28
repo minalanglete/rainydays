@@ -6,7 +6,6 @@ body {
   color: #494757;
   text-decoration: none;
   margin: 0px;
-  width: 100%;
 }
 
 /*header*/
@@ -102,7 +101,6 @@ h5 {
 /*banner*/
 .banner {
   display: flex;
-  width: 100%;
 }
 .slogan {
   text-align: center;
