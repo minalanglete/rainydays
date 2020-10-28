@@ -157,6 +157,10 @@ h5 {
   position: absolute;
   bottom: 8px;
   left: 16px;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: aqua;
+  text-transform: uppercase;
 }
 
 /*footer*/
