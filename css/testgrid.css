@@ -85,15 +85,15 @@ h1 {
 
 .text {
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  bottom: 40px;
+  right: 20px;
   color: #ffffff;
   font-size: 35px;
 }
 .text1 {
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  bottom: 30px;
+  right: 20px;
   color: #fd934e;
 }
 
