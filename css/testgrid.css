@@ -109,18 +109,23 @@ h5 {
 /*banner*/
 .imgbanner1 {
   grid-area: imgbanner1;
+  width: 100%;
 }
 .imgbanner2 {
   grid-area: imgbanner2;
+  width: 100%;
 }
 .imgbanner3 {
   grid-area: imgbanner3;
+  width: 100%;
 }
 .imgbanner4 {
   grid-area: imgbanner4;
+  width: 100%;
 }
 .imgbanner5 {
   grid-area: imgbanner5;
+  width: 100%;
 }
 
 .banner {
