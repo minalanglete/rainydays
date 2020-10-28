@@ -81,7 +81,6 @@ h5 {
 .img1 {
   position: relative;
   margin-bottom: 40px;
-  width: 100%;
 }
 
 .textmen {
@@ -211,7 +210,6 @@ footer {
 
 body {
   display: grid;
-  width: 100%;
   grid-template-areas:
     "header header"
     "nav nav"
