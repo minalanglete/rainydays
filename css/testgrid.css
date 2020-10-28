@@ -211,7 +211,6 @@ footer {
 
 body {
   display: grid;
-  width: 100%;
   grid-template-areas:
     "header header"
     "nav nav"
