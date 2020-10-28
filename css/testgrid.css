@@ -101,7 +101,7 @@ h5 {
 
 /*banner*/
 .banner {
-  display: flex;
+  display: grid;
 }
 .slogan {
   text-align: center;
