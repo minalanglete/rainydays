@@ -150,33 +150,28 @@ h5 {
 }
 .hiking {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  left: 16px;
 }
 .camping {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  left: 16px;
 }
 .sightseing {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  left: 16px;
 }
 .skiing {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  left: 16px;
 }
 .running {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  left: 16px;
 }
 
 /*footer*/
