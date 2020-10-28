@@ -82,12 +82,19 @@ h1 {
   position: relative;
   text-align: center;
 }
-.text,
+
+.text {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  color: #ffffff;
+  font-size: 35px;
+}
 .text1 {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 8px;
+  right: 16px;
+  color: #fd934e;
 }
 
 .container {
