@@ -6,6 +6,7 @@ body {
   color: #494757;
   text-decoration: none;
   margin: 0px;
+  width: 100%;
 }
 
 /*header*/
@@ -209,7 +210,6 @@ footer {
 
 body {
   display: grid;
-  width: 100%;
   grid-template-areas:
     "header header"
     "nav nav"
@@ -222,9 +222,6 @@ body {
   grid-gap: 20px;
   grid-template-areas: "img2 img2 img3 img4 img4";
 }
-.img1,
-.img2,
-.img3,
-.img4 {
+.img1 {
   width: 100%;
 }
