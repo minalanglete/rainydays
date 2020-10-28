@@ -150,9 +150,8 @@ h5 {
 }
 .hiking {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 10px;
+  left: 20px;
 }
 .camping {
   position: absolute;
