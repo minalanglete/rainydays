@@ -85,8 +85,8 @@ h5 {
 
 .textmen {
   position: absolute;
-  top: 430px;
-  left: 1450px;
+  top: 430em;
+  left: 1450em;
   color: #ffffff;
   font-size: 90px;
   text-transform: uppercase;
