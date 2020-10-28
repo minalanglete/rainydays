@@ -149,26 +149,10 @@ h5 {
 .container6 {
   position: relative;
 }
-.hiking {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-.camping {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-.sightseing {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-.skiing {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
+.hiking,
+.camping,
+.sightseing,
+.skiing,
 .running {
   position: absolute;
   bottom: 8px;
