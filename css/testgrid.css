@@ -146,6 +146,22 @@ h1 {
   font-size: 90px;
   text-transform: uppercase;
 }
+.textna,
+.textna2 {
+  position: absolute;
+  color: #ffffff;
+  font-size: 90px;
+  text-transform: uppercase;
+}
+.textna {
+  bottom: 200px;
+  left: 200px;
+}
+.textna2 {
+  bottom: 150px;
+  left: 200px;
+}
+
 .hrmen {
   position: absolute;
   bottom: 125px;
