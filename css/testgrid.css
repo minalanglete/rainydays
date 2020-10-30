@@ -245,14 +245,14 @@ h3 {
 }
 .fab {
   color: #1a7589;
-  width: 30px;
-  margin-bottom: 100px;
 }
 .socialmedia {
   display: inline-flex;
+  align-items: center;
   gap: 10px;
   width: 30px;
   height: 30px;
+  margin-bottom: 100px;
 }
 /*grid*/
 
