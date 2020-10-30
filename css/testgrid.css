@@ -250,6 +250,7 @@ h3 {
 .socialmedia {
   display: inline-flex;
   gap: 10px;
+  margin-bottom: 100px;
 }
 /*grid*/
 
