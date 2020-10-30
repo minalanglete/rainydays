@@ -116,7 +116,24 @@ h1 {
   border: 2px solid #ffffff;
   width: 240px;
 }
-
+.line5,
+.line6,
+.line7,
+.line8 {
+  border: 2px solid #ffffff;
+}
+.line5 {
+  width: 620px;
+}
+.line6 {
+  width: 120px;
+}
+.line7 {
+  width: 140px;
+}
+.line8 {
+  width: 200px;
+}
 .container {
   position: relative;
   text-align: center;
