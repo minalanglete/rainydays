@@ -245,6 +245,8 @@ h3 {
 }
 .fab {
   color: #1a7589;
+  margin-left: auto;
+  margin-right: auto;
 }
 .socialmedia {
   display: inline-flex;
