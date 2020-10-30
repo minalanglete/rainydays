@@ -104,6 +104,11 @@ h1 {
   bottom: 85px;
   right: 0px;
 }
+.hrtext2 {
+  position: absolute;
+  bottom: 385px;
+  left: 0px;
+}
 .line2 {
   border: 2px solid #ffffff;
   width: 310px;
@@ -162,7 +167,22 @@ h1 {
   top: 100px;
   left: 10px;
 }
+
+.hrmen {
+  position: absolute;
+  bottom: 125px;
+  right: 0px;
+}
+.hrna {
+  position: absolute;
+  bottom: 400px;
+  left: 0px;
+}
 .line {
+  border: 2px solid #ffffff;
+  width: 518px;
+}
+.line9 {
   border: 2px solid #ffffff;
   width: 518px;
 }
