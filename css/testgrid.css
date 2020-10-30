@@ -104,6 +104,11 @@ h1 {
   bottom: 85px;
   right: 0px;
 }
+.hrtext2 {
+  position: absolute;
+  bottom: 85px;
+  right: 0px;
+}
 .line2 {
   border: 2px solid #ffffff;
   width: 310px;
