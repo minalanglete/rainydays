@@ -167,13 +167,18 @@ h1 {
   bottom: 125px;
   right: 0px;
 }
+.hrna {
+  position: absolute;
+  bottom: 125px;
+  left: 0px;
+}
 .line {
   border: 2px solid #ffffff;
   width: 518px;
 }
 .line9 {
+  border: 2px solid #ffffff;
   width: 518px;
-  left: 0px;
 }
 .img1,
 .img2,
