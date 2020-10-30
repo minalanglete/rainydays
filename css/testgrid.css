@@ -146,18 +146,19 @@ h1 {
   font-size: 90px;
   text-transform: uppercase;
 }
-.textna,
+.textna {
+  position: absolute;
+  color: #ffffff;
+  font-size: 70px;
+  text-transform: uppercase;
+  top: 20px;
+  right: 700px;
+}
 .textna2 {
   position: absolute;
   color: #ffffff;
   font-size: 70px;
   text-transform: uppercase;
-}
-.textna {
-  top: 20px;
-  right: 700px;
-}
-.textna2 {
   top: 100px;
   right: 700px;
 }
