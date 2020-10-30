@@ -248,7 +248,8 @@ h3 {
 }
 .socialmedia {
   display: inline-flex;
-  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
   gap: 10px;
   width: 30px;
   height: 30px;
