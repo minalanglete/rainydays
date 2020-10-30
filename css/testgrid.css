@@ -245,11 +245,11 @@ h3 {
 }
 .fab {
   color: #1a7589;
-  width: 100%;
+  width: 30px;
 }
 .socialmedia {
-  display: flex;
-  margin: 10px;
+  display: inline-flex;
+  gap: 10px;
 }
 /*grid*/
 
