@@ -123,16 +123,16 @@ h1 {
   border: 2px solid #ffffff;
 }
 .line5 {
-  width: 620px;
+  width: 615px;
 }
 .line6 {
-  width: 120px;
-}
-.line7 {
   width: 140px;
 }
+.line7 {
+  width: 100px;
+}
 .line8 {
-  width: 200px;
+  width: 190px;
 }
 .container {
   position: relative;
