@@ -282,7 +282,6 @@ body {
     "footer footer";
 }
 .jacketmen {
-  display: grid;
-  grid-gap: 20px;
-  grid-template-areas: "img2 img2 img3 img4 img4";
+  display: flex;
+  padding: 20px;
 }
