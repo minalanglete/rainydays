@@ -393,7 +393,7 @@ body {
 }
 .size {
   display: flex;
-  gap: 12px;
+  gap: 14px;
   margin-bottom: 20px;
 }
 .smal,
