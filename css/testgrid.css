@@ -393,7 +393,7 @@ body {
 }
 .size {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   margin-bottom: 20px;
 }
 .smal,
@@ -404,7 +404,7 @@ body {
   background-color: #c6c4ca;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px 30px 10px 30px;
+  padding: 20px 25px 10px 25px;
   border-radius: 5px;
 }
 .button {
