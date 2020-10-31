@@ -382,7 +382,7 @@ body {
   font-weight: normal;
 }
 .size {
-  display: inline-block;
+  display: flex;
   color: #ffffff;
   background-color: #c6c4ca;
   padding: 20px;
@@ -390,7 +390,7 @@ body {
   text-align: center;
 }
 .button {
-  display: inline-block;
+  display: flex;
   color: #ffffff;
   background-color: #fd934e;
   padding: 20px;
