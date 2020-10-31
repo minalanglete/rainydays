@@ -381,6 +381,16 @@ body {
   font-style: normal;
   font-weight: normal;
 }
+.display {
+  gap: 10px;
+  text-align: center;
+}
+.display1,
+.display2,
+.display3,
+.display4 {
+  border-radius: 5px;
+}
 .size {
   display: flex;
   gap: 10px;
@@ -394,7 +404,8 @@ body {
   background-color: #c6c4ca;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px;
+  padding: 20px 20px 10px 20px;
+  border-radius: 5px;
 }
 .button {
   display: flex;
@@ -406,6 +417,6 @@ body {
   background-color: #fd934e;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px 50px 10px 50px;
+  padding: 20px 70px 10px 70px;
   border-radius: 5px;
 }
