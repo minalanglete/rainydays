@@ -507,6 +507,8 @@ body {
   font-style: normal;
   font-weight: bold;
 }
+/* checkout grid */
+
 .yourbagimg {
   border-radius: 5px;
   grid-area: img;
@@ -516,11 +518,13 @@ body {
   grid-area: subleft;
   text-align: left;
   margin-left: 5px;
+  margin-top: 5px;
 }
 .subtitleright {
   grid-area: subright;
   text-align: right;
   margin-right: 36px;
+  margin-top: 5px;
 }
 .subtitlesize {
   grid-area: size;
