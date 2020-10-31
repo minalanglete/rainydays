@@ -393,9 +393,8 @@ body {
 }
 .size {
   display: flex;
-  gap: 10px;
+  gap: 20px;
   margin-bottom: 20px;
-  text-align: center;
 }
 .smal,
 .medium,
@@ -411,7 +410,6 @@ body {
 .button {
   display: flex;
   gap: 20px;
-  text-align: center;
 }
 .addtobag,
 .checkout {
