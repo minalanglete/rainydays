@@ -624,6 +624,10 @@ body {
 .rightcheckout {
   text-align: left;
 }
+.titleform {
+  text-align: center;
+  margin-top: 10px;
+}
 .formtext {
   background-color: #c6c4ca;
   padding: 5px 0px 7px 5px;
