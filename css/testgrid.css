@@ -383,17 +383,21 @@ body {
 }
 .size {
   display: flex;
+}
+.smal,
+.medium,
+.large,
+.xlarge {
   color: #ffffff;
   background-color: #c6c4ca;
-  padding: 20px;
   text-transform: uppercase;
   text-align: center;
+  padding: 20px;
 }
 .button {
   display: flex;
   color: #ffffff;
   background-color: #fd934e;
-  padding: 20px;
   text-transform: uppercase;
   text-align: center;
 }
