@@ -507,6 +507,9 @@ body {
   font-style: normal;
   font-weight: bold;
 }
+.orange {
+  color: #fd934e;
+}
 /* checkout grid */
 
 .yourbagimg {
@@ -548,25 +551,25 @@ body {
 .textcheckoutleft1 {
   grid-area: order;
   text-align: left;
-  margin-left: 36px;
+  margin: 0px 0px 0px 36px;
 }
 
 .textcheckoutright1 {
   grid-area: orderprize;
   text-align: right;
-  margin-right: 36px;
+  margin: 0px 36px 0px 0px;
 }
 
 .textcheckoutleft2 {
   grid-area: shipping;
   text-align: left;
-  margin-left: 36px;
+  margin: 0px 0px 0px 36px;
 }
 
 .textxheckoutright2 {
   grid-area: shippingprize;
   text-align: right;
-  margin-right: 36px;
+  margin: 0px 36px 0px 0px;
 }
 
 .undertitle3 {
@@ -577,12 +580,14 @@ body {
   grid-area: total;
   text-align: left;
   margin-left: 36px;
+  margin-top: 0px;
 }
 
 .textcheckouttotalright {
   grid-area: totalprize;
   text-align: right;
   margin-right: 36px;
+  margin-top: 0px;
 }
 
 .yourbag {
