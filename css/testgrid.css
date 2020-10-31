@@ -382,12 +382,14 @@ body {
   font-weight: normal;
 }
 .size {
-  display: inline-block;
+  display: inline;
   color: #ffffff;
   background-color: #c6c4ca;
+  padding: 20px;
 }
 .button {
-  display: inline-block;
+  display: inline;
   color: #ffffff;
   background-color: #fd934e;
+  padding: 20px;
 }
