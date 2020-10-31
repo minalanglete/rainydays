@@ -362,6 +362,7 @@ body {
   grid-template-areas: "left right";
   justify-content: center;
   gap: 10px;
+  margin-top: 10px;
 }
 .titlejacket {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
