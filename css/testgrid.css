@@ -349,11 +349,12 @@ body {
 }
 .right {
   grid-area: right;
+  background-color: #dcdbde;
 }
 .jacketshowing {
   display: grid;
   grid-template-areas: "left right";
-  margin: auto;
+  justify-content: center;
 }
 .titlejacket {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
