@@ -385,13 +385,14 @@ body {
   font-size: 30px;
   font-style: normal;
   font-weight: bold;
+  margin: 0px;
 }
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: normal;
-  margin-top: 0px;
+  margin: 0px;
 }
 .display {
   display: flex;
