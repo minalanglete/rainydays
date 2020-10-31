@@ -368,13 +368,14 @@ body {
 .undertitle {
   border: 2px solid #494757;
   width: 450px;
+  margin-bottom: 1px;
 }
 
 .subtitle {
   font-size: 35px;
   text-transform: uppercase;
   text-align: center;
-  margin-top: 5px;
+  margin-top: 1px;
 }
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
