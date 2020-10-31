@@ -620,3 +620,9 @@ body {
     "line2 line2 line2"
     "total total totalprize";
 }
+/* form checkout */
+.mail,
+.password {
+  border: none;
+  background-color: #c6c4ca;
+}
