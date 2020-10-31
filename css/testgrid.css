@@ -528,6 +528,8 @@ body {
   grid-area: size;
   text-align: left;
   margin-left: 5px;
+  margin-top: 5px;
+  padding: 20px;
 }
 
 .textcheckout1 {
