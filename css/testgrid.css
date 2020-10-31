@@ -457,7 +457,7 @@ body {
   padding: 10px 59px 3px 59px;
   border-radius: 5px;
 }
-.checkout a:hover {
+.button .checkout a:hover {
   color: #fd934e;
   background-color: #ffffff;
 }
