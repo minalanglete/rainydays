@@ -464,6 +464,11 @@ body {
   background-color: #ffffff;
 }
 /* checkout */
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 60px;
+}
 .leftcheckout {
   grid-area: leftcheckout;
   text-align: center;
