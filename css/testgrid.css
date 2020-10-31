@@ -352,6 +352,7 @@ body {
   background-color: #dcdbde;
   padding: 0px 70px 0px 70px;
   margin-bottom: 10px;
+  background-image: url("../images/background_smal.jpg");
 }
 .jacketshowing {
   display: grid;
@@ -363,7 +364,6 @@ body {
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
     "Trebuchet MS", sans-serif;
   color: #494757;
-  background-image: url("../images/background_smal.jpg");
   font-size: 60px;
   text-align: center;
   margin-bottom: 1px;
