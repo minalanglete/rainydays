@@ -461,14 +461,31 @@ body {
   color: #fd934e;
   background-color: #ffffff;
 }
-/* checout */
-.textchecout {
+/* checkout */
+.leftcheckout {
+  grid-area: left;
+  text-align: center;
+}
+.rightcheckout {
+  grid-area: right;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.checkoutpage {
+  display: grid;
+  grid-gap: 70px;
+  max-width: 850px;
+  margin: auto;
+  grid-template-areas: "left right";
+}
+.textcheckout {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 30px;
   font-style: normal;
   font-weight: normal;
 }
-.textchecout2 {
+.textcheckout2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 30px;
   font-style: normal;
