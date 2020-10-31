@@ -463,11 +463,11 @@ body {
 }
 /* checkout */
 .leftcheckout {
-  grid-area: left;
+  grid-area: leftcheckout;
   text-align: center;
 }
 .rightcheckout {
-  grid-area: right;
+  grid-area: rightcheckout;
   text-align: center;
   margin-top: 40px;
 }
@@ -477,7 +477,7 @@ body {
   grid-gap: 70px;
   max-width: 850px;
   margin: auto;
-  grid-template-areas: "left right";
+  grid-template-areas: "leftcheckout rightcheckout";
 }
 .textcheckout {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
