@@ -344,25 +344,23 @@ body {
   gap: 20px;
 }
 /* jacket */
-.title {
+.titlejacket {
   font-size: 60px;
-  color: #494757;
   text-align: center;
-  text-transform: uppercase;
 }
+.undertitle {
+  border: 2px solid #494757;
+  width: 518px;
+}
+
 .subtitle {
   font-size: 35px;
-  color: #494757;
   text-transform: uppercase;
-  margin-top: -30px;
-  margin-bottom: 0px;
+  text-align: center;
 }
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: normal;
-  color: #494757;
-  text-transform: none;
-  margin-top: 0px;
 }
