@@ -58,6 +58,7 @@ ul {
 .top {
   float: right;
   margin-right: 20px;
+  text-decoration: none;
 }
 .test {
   float: right;
