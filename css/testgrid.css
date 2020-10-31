@@ -524,6 +524,7 @@ body {
   padding: 0px;
 }
 .subtitleright {
+  color: #fd934e;
   grid-area: subright;
   text-align: right;
   margin: 5px 36px 0px 0px;
@@ -542,7 +543,6 @@ body {
   margin-right: 36px;
   margin-top: 0px;
   padding: 0px;
-  gap: 10px;
 }
 
 .undertitle2 {
@@ -568,6 +568,7 @@ body {
 }
 
 .textxheckoutright2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   grid-area: shippingprize;
   text-align: right;
   margin: 0px 36px 0px 0px;
