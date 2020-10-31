@@ -510,7 +510,7 @@ body {
 }
 .yourbagimg {
   grid-area: img;
-  margin-left: 35px;
+  margin-left: 38px;
 }
 .subtitleleft {
   grid-area: subleft;
