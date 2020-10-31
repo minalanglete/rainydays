@@ -386,6 +386,7 @@ body {
   font-style: normal;
   font-weight: bold;
   margin: 0px;
+  color: #fd934e;
 }
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -395,8 +396,8 @@ body {
   margin: 0px;
 }
 .discription {
-  margin-top: 5px;
-  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 .display {
   display: flex;
