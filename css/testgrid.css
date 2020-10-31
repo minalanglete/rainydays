@@ -440,6 +440,13 @@ body {
   padding: 10px 25px 3px 25px;
   border-radius: 5px;
 }
+.smal,
+.medium,
+.large,
+.xlarge a.hover {
+  color: #ffffff;
+  background-color: #fd934e;
+}
 .button {
   display: flex;
   gap: 10px;
@@ -452,4 +459,9 @@ body {
   text-align: center;
   padding: 10px 59px 3px 59px;
   border-radius: 5px;
+}
+.addtobag,
+.checkout a.hover {
+  color: #fd934e;
+  background-color: #ffffff;
 }
