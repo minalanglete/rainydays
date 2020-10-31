@@ -380,11 +380,19 @@ body {
   margin-top: 1px;
   margin-bottom: 2px;
 }
+.textjacketprice {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+  padding: 0px;
+}
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: normal;
+  padding: 0px;
 }
 .display {
   display: flex;
