@@ -382,14 +382,18 @@ body {
   font-weight: normal;
 }
 .size {
-  display: inline;
+  display: inline-block;
   color: #ffffff;
   background-color: #c6c4ca;
   padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
 }
 .button {
-  display: inline;
+  display: inline-block;
   color: #ffffff;
   background-color: #fd934e;
   padding: 20px;
+  text-transform: uppercase;
+  text-align: center;
 }
