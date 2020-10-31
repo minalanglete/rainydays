@@ -383,7 +383,7 @@ body {
 }
 .display {
   display: flex;
-  gap: 10px;
+  gap: 30px;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -406,7 +406,7 @@ body {
   background-color: #c6c4ca;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px 25px 10px 25px;
+  padding: 10px 25px 5px 25px;
   border-radius: 5px;
 }
 .button {
@@ -419,6 +419,6 @@ body {
   background-color: #fd934e;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px 70px 10px 70px;
+  padding: 10px 70px 5px 70px;
   border-radius: 5px;
 }
