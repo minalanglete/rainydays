@@ -440,7 +440,10 @@ body {
   padding: 10px 25px 3px 25px;
   border-radius: 5px;
 }
-.size:hover {
+.smal:hover,
+.medium:hover,
+.large:hover,
+.xlarge:hover {
   color: #ffffff;
   background-color: #fd934e;
 }
@@ -457,6 +460,7 @@ body {
   padding: 10px 59px 3px 59px;
   border-radius: 5px;
 }
+.addtobag:hover,
 .checkout:hover {
   color: #fd934e;
   background-color: #ffffff;
