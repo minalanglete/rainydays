@@ -624,6 +624,10 @@ body {
 .rightcheckout {
   text-align: left;
 }
+.title {
+  text-align: center;
+  margin-top: 10px;
+}
 .formtext {
   background-color: #c6c4ca;
   padding: 5px 0px 7px 5px;
@@ -637,4 +641,12 @@ body {
   height: 40px;
   margin-top: 10px;
   border-radius: 0px 5px 5px 0px;
+}
+.check,
+.guest {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 15px;
+}
+.guest {
+  font-size: 30px;
 }
