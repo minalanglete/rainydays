@@ -517,14 +517,12 @@ body {
 .subtitleleft {
   grid-area: subleft;
   text-align: left;
-  margin-left: 5px;
-  margin-top: 5px;
+  margin: 5px 0px 0px 0px;
 }
 .subtitleright {
   grid-area: subright;
   text-align: right;
-  margin-right: 36px;
-  margin-top: 5px;
+  margin: 5px 36px 0px 0px;
 }
 .subtitlesize {
   grid-area: size;
