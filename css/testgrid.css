@@ -395,8 +395,9 @@ body {
 }
 .size {
   display: flex;
-  gap: 14px;
+  gap: 10px;
   margin-bottom: 20px;
+  font-size: 25px;
 }
 .smal,
 .medium,
@@ -406,12 +407,12 @@ body {
   background-color: #c6c4ca;
   text-transform: uppercase;
   text-align: center;
-  padding: 10px 25px 5px 25px;
+  padding: 10px 25px 3px 25px;
   border-radius: 5px;
 }
 .button {
   display: flex;
-  gap: 19px;
+  gap: 10px;
 }
 .addtobag,
 .checkout {
@@ -419,6 +420,6 @@ body {
   background-color: #fd934e;
   text-transform: uppercase;
   text-align: center;
-  padding: 10px 70px 5px 70px;
+  padding: 10px 70px 3px 70px;
   border-radius: 5px;
 }
