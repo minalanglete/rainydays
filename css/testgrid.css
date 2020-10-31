@@ -510,19 +510,24 @@ body {
 }
 .yourbagimg {
   grid-area: img;
+  margin-left: 30px;
 }
 .subtitleleft {
   grid-area: subleft;
+  text-align: left;
 }
 .subtitleright {
   grid-area: subright;
+  text-align: right;
 }
 .subtitlesize {
   grid-area: size;
+  text-align: left;
 }
 
 .textcheckout1 {
   grid-area: bin;
+  text-align: right;
 }
 
 .undertitle2 {
@@ -531,18 +536,22 @@ body {
 
 .textcheckoutleft1 {
   grid-area: order;
+  text-align: left;
 }
 
 .textcheckoutright1 {
   grid-area: orderprize;
+  text-align: right;
 }
 
 .textcheckoutleft2 {
   grid-area: shipping;
+  text-align: left;
 }
 
 .textxheckoutright2 {
   grid-area: shippingprize;
+  text-align: right;
 }
 
 .undertitle3 {
@@ -551,10 +560,12 @@ body {
 
 .textcheckouttotalleft {
   grid-area: total;
+  text-align: left;
 }
 
 .textcheckouttotalright {
   grid-area: totalprize;
+  text-align: right;
 }
 
 .yourbag {
