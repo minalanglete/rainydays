@@ -383,6 +383,7 @@ body {
 }
 .size {
   display: flex;
+  padding: 10px;
 }
 .smal,
 .medium,
