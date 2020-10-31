@@ -347,6 +347,7 @@ body {
 .titlejacket {
   font-size: 60px;
   text-align: center;
+  text-transform: uppercase;
 }
 .undertitle {
   border: 2px solid #494757;
