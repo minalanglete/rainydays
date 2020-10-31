@@ -394,6 +394,10 @@ body {
   font-weight: normal;
   margin: 0px;
 }
+.discription {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
 .display {
   display: flex;
   gap: 30px;
