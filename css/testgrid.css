@@ -406,5 +406,6 @@ body {
   background-color: #fd934e;
   text-transform: uppercase;
   text-align: center;
-  padding: 20px 40px 10px 40px;
+  padding: 20px 50px 10px 50px;
+  border-radius: 5px;
 }
