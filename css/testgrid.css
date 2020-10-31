@@ -350,7 +350,7 @@ body {
 .right {
   grid-area: right;
   background-color: #dcdbde;
-  padding: 5px 70px 70px 40px;
+  padding: 5px 70px 40px 70px;
 }
 .jacketshowing {
   display: grid;
