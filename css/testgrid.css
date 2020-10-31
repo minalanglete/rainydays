@@ -461,3 +461,16 @@ body {
   color: #fd934e;
   background-color: #ffffff;
 }
+/* checout */
+.textchecout {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: normal;
+}
+.textchecout2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+}
