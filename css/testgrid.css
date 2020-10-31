@@ -353,6 +353,9 @@ body {
   padding: 0px 70px 0px 70px;
   margin-bottom: 10px;
   background-image: url("../images/background_smal.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: top;
 }
 .jacketshowing {
   display: grid;
