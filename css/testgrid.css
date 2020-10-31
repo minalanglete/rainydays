@@ -418,9 +418,7 @@ body {
 .display4 {
   border-radius: 5px;
 }
-.display2,
-.display3,
-.display4 {
+.display2 {
   opacity: 50%;
 }
 .size {
