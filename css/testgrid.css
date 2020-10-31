@@ -469,9 +469,13 @@ body {
 }
 /* checkout */
 .title {
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  color: #494757;
   text-transform: uppercase;
   text-align: center;
   font-size: 60px;
+  margin-bottom: 0px;
 }
 .leftcheckout {
   grid-area: leftcheckout;
