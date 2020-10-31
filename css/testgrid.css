@@ -384,6 +384,7 @@ body {
 .size {
   display: flex;
   gap: 10px;
+  margin-bottom: 20px;
 }
 .smal,
 .medium,
@@ -397,8 +398,13 @@ body {
 }
 .button {
   display: flex;
+  gap: 20px;
+}
+.addtobag,
+.checkout {
   color: #ffffff;
   background-color: #fd934e;
   text-transform: uppercase;
   text-align: center;
+  padding: 20px 40px 10px 40px;
 }
