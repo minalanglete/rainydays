@@ -626,6 +626,7 @@ body {
 }
 .formtext {
   background-color: #c6c4ca;
+  padding: 2px 0px 5px 5px;
 }
 .mail,
 .password {
