@@ -647,8 +647,13 @@ body {
 .password {
   width: 348px;
 }
-.name {
+.name,
+.phone {
   width: 380px;
+}
+.adress,
+.email {
+  width: 350px;
 }
 .check,
 .guest {
