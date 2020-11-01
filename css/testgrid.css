@@ -849,7 +849,7 @@ body {
 .passwordsignin {
   width: 343px;
 }
-/*-----------media queries-----------------------------------------------------------------*/
+/*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
   aside,
   .textna,
