@@ -757,7 +757,8 @@ body {
 /*-----------about us-----------------------------------------------------------------*/
 .textabout,
 .subtitleabout,
-.textabout2 {
+.textabout2,
+.textabout3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
@@ -770,8 +771,12 @@ body {
   font-weight: bold;
   margin-bottom: 40px;
 }
-.textabout {
+.textabout,
+.textabout3 {
   text-align: left;
+}
+.textabout3 {
+  font-weight: bold;
 }
 .linkstore {
   color: #fd934e;
