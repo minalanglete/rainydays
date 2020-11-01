@@ -633,10 +633,15 @@ body {
 .password {
   border: none;
   background-color: #c6c4ca;
-  width: 250px;
   height: 40px;
   margin-top: 10px;
   border-radius: 0px 5px 5px 0px;
+}
+.mail {
+  width: 300px;
+}
+.password {
+  width: 230px;
 }
 .check,
 .guest {
