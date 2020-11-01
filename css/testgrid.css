@@ -696,6 +696,7 @@ body {
   margin-top: 10px;
   text-transform: uppercase;
   padding: 10px 0px 2px 0px;
+  text-decoration: none;
 }
 .send:hover,
 .payment:hover {
