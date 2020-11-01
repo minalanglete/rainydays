@@ -891,6 +891,9 @@ body {
   }
   .hamburger-label {
     float: right;
-    color: #494757;
+    color: #fd934e;
+  }
+  header nav li {
+    display: inline-block;
   }
 }
