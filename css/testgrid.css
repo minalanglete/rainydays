@@ -704,7 +704,8 @@ body {
 }
 .titlepayment,
 .textpayment,
-.titlepayment2 {
+.titlepayment2,
+.titlepayment3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 30px;
   font-style: normal;
@@ -726,4 +727,8 @@ body {
 .shipped {
   max-width: 450px;
   margin: auto;
+}
+.titlepayment3 {
+  text-align: left;
+  margin-top: 20px;
 }
