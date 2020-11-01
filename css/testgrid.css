@@ -663,6 +663,15 @@ body {
 .email {
   width: 370px;
 }
+.cardnr {
+  width: 370px;
+}
+.date {
+  width: 300px;
+}
+.ccv {
+  width: 382px;
+}
 .check,
 .guest {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
