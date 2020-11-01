@@ -803,8 +803,8 @@ body {
   margin-left: 0px;
 }
 .titleright {
-  margin-top: 8px;
+  margin-top: 0px;
 }
-.paperplane {
+.paperplane .fas {
   text-align: center;
 }
