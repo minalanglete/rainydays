@@ -809,3 +809,18 @@ body {
   text-align: center;
   margin: 10px 0px 10px 0px;
 }
+/*-----------shop now button-----------------------------------------------------------------*/
+.shopnow {
+  border: none;
+  background-color: #fd934e;
+  color: #ffffff;
+  text-align: center;
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 35px;
+  width: 200px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  padding: 10px 0px 2px 0px;
+}
