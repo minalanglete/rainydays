@@ -905,4 +905,12 @@ body {
   label .fas {
     display: none;
   }
+  .checkoutpage {
+    display: grid;
+    width: 850px;
+    margin: auto;
+    grid-template-areas:
+      "leftcheckout"
+      "rightcheckout";
+  }
 }
