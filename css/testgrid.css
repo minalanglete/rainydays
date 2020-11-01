@@ -640,7 +640,8 @@ body {
 .phone,
 .cardnr,
 .date,
-.ccv {
+.ccv,
+.username {
   border: none;
   background-color: #c6c4ca;
   height: 40px;
@@ -672,6 +673,9 @@ body {
 }
 .ccv {
   width: 400px;
+}
+.username {
+  width: 350px;
 }
 .check,
 .guest {
