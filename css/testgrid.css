@@ -630,7 +630,11 @@ body {
   border-radius: 5px 0px 0px 5px;
 }
 .mail,
-.password {
+.password,
+.name,
+.adress,
+.email,
+.phone {
   border: none;
   background-color: #c6c4ca;
   height: 40px;
