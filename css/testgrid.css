@@ -779,5 +779,7 @@ body {
   color: #fd934e;
   text-align: right;
   margin: 0px -100px 0px 0px;
-  padding: 0px;
+}
+.marker {
+  margin-bottom: 0px;
 }
