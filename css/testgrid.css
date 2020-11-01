@@ -805,6 +805,7 @@ body {
 .titleright {
   margin-top: 0px;
 }
-.paperplane .fas {
-  margin: auto;
+.paperplane {
+  text-align: center;
+  margin: 10px 0px 10px 0px;
 }
