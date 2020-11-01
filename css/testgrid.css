@@ -777,6 +777,7 @@ body {
 }
 .marker .fas {
   color: #fd934e;
-  margin-right: 20px;
+  text-align: right;
+  margin-right: 0px;
   margin-bottom: -10px;
 }
