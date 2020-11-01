@@ -841,8 +841,8 @@ body {
   margin: auto;
 }
 /*-----------sign in-----------------------------------------------------------------*/
-.username,
-.passwordsignin {
+.signin {
+  max-width: 450px;
   text-align: center;
   margin: auto;
 }
