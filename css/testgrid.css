@@ -483,7 +483,7 @@ body {
 .leftcheckout {
   grid-area: leftcheckout;
   text-align: center;
-  padding-left: 0px;
+  margin-left: 0px;
 }
 .rightcheckout {
   grid-area: rightcheckout;
