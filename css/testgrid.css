@@ -629,6 +629,7 @@ body {
   background-color: #c6c4ca;
   padding: 5px 0px 7px 5px;
   border-radius: 5px 0px 0px 5px;
+  width: 300px;
 }
 .mail,
 .password,
@@ -644,7 +645,7 @@ body {
   color: #e2e1e4;
 }
 .mail {
-  width: 400px;
+  width: 150px;
 }
 .password {
   width: 348px;
