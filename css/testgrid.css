@@ -711,5 +711,6 @@ body {
   margin-top: 40px;
 }
 .card .fab {
+  width: 60px;
   color: #fd934e;
 }
