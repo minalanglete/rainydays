@@ -528,7 +528,7 @@ body {
 .yourbagimg {
   border-radius: 5px;
   grid-area: img;
-  margin-left: 36px;
+  margin-left: 0px;
 }
 .subtitleleft {
   grid-area: subleft;
@@ -540,7 +540,7 @@ body {
   color: #fd934e;
   grid-area: subright;
   text-align: right;
-  margin: 5px 36px 0px 0px;
+  margin: 5px 0px 0px 0px;
 }
 .subtitlesize {
   grid-area: size;
@@ -553,7 +553,7 @@ body {
 .textcheckout1 {
   grid-area: bin;
   text-align: right;
-  margin-right: 36px;
+  margin-right: 0px;
   margin-top: 0px;
   padding: 0px;
 }
