@@ -878,4 +878,19 @@ body {
   .top {
     margin-right: 150px;
   }
+  nav {
+    display: none;
+  }
+
+  #hamburger-menu {
+    display: none;
+  }
+
+  #hamburger-menu:checked ~ nav {
+    display: block;
+  }
+  .hamburger-label {
+    float: right;
+    color: #494757;
+  }
 }
