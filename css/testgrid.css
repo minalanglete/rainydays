@@ -484,7 +484,7 @@ body {
 .rightcheckout {
   grid-area: rightcheckout;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 50px;
 }
 
 .checkoutpage {
@@ -619,7 +619,8 @@ body {
     "total total totalprize";
 }
 /* form checkout */
-.leftalign {
+
+.rightcheckout .leftalign {
   text-align: left;
 }
 .formtext {
