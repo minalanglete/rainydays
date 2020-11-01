@@ -1,75 +1,134 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Rainydays</title>
-    <meta name="description" content="The home page to rainydays website." />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="css/styles.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://use.typekit.net/jkm4zvj.css" />
-  </head>
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The home page to rainydays website.">
+  <title>Rainydays</title>
+  <link href="css/testgrid.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://use.typekit.net/jkm4zvj.css" />
+  <script src="https://kit.fontawesome.com/5d90823717.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
   <header>
-    <a href="index.html" class="logo"
-      ><img
-        src="images/logo.png"
-        alt="Logo for Rainydays"
-        width="368.33"
-        height="197.65"
-    /></a>
+    <a href="index.html" class="logo"><img src="images/logo.png" alt="Logo for Rainydays" width="368.33"
+        height="197.65" /></a>
     <div class="top">
-      <img src="images/Icon person.png" alt="Logo for person" class="toppnav" />
-      <a href="signin.html" class="toppnav">Sign in</a>
-      <img
-        src="images/Icon wishlist.png"
-        alt="Logo for Wishlist"
-        class="toppnav"
-      />
-      <a href="wishlist.html" class="toppnav">Wishlist</a>
-      <img
-        src="images/Icon yourbag.png"
-        alt="Logo for yourbag"
-        class="toppnav"
-      />
-      <a href="yourbag.html" class="toppnav">Your bag</a>
-      <img
-        src="images/Icon contactus.png"
-        alt="Logo for contactus"
-        class="toppnav"
-      />
-      <a href="contactus.html" class="toppnav">Contact us</a>
+      <a href="signin.html" class="toppnav"><i class="fas fa-user"></i></a>
+      <a href="wishlist.html" class="toppnav"><i class="fas fa-heart"></i></a>
+      <a class="current" href="yourbag.html" class="toppnav"><i class="fas fa-shopping-bag"></i></a>
+      <a href="contactus.html" class="toppnav"><i class="fas fa-comments"></i></a>
     </div>
+
     <nav>
-      <ul>
+      <ul class="nav">
         <li><a href="index.html">Home</a></li>
         <li><a href="women.html">Women</a></li>
         <li><a href="men.html">Men</a></li>
         <li><a href="newarrivals.html">New Arrivals</a></li>
-        <li><a href="search.html">Search</a></li>
+        <li class="test"><a class="search" href="search.html">Search</a><i class="fas fa-search"></i></li>
       </ul>
     </nav>
   </header>
 
-  <body>
-    <main>checkout payment site</main>
+
+  <main>
+    <section class="checkoutpage">
+      <div class="leftcheckout">
+        <h1 class="title">your bag</h1>
+        <hr class="undertitle">
+        <div class="yourbag">
+          <img class="yourbagimg" src="images/jacket_display1.jpg">
+          <h2 class="subtitleleft">Winterjacket Polar</h2>
+          <h2 class="subtitleright">$ 199.00</h2>
+          <h2 class="subtitlesize">S M L XL</h2>
+          <p class="textcheckout1"><i class="fas fa-trash"></i> remove from bag</p>
+          <hr class="undertitle2">
+          <p class="textcheckoutleft1">Order summary</p>
+          <p class="textcheckoutright1">$ 199.00</p>
+          <p class="textcheckoutleft2">Shipping</p>
+          <p class="textxheckoutright2">$ 0.00</p>
+          <hr class="undertitle3">
+          <p class="textcheckouttotalleft">Total</p>
+          <p class="textcheckouttotalright">$ 199.00</p>
+        </div>
+      </div>
+
+      <div class="rightcheckout">
+        <form action="form-success.php" method="GET">
+          <legend>
+            <label class="title" for="contact">Checkout</label>
+          </legend>
+          <div class="leftalign">
+            <hr class="undertitle">
+            <p class="titlepayment">Delivery adress</p>
+            <p class="guestt">You Are
+            <p class="guest">64 Bakersfields,
+            <p class="guest">4th ave, 7011 NY
+            <p class="titlepayment">Phone
+            <p class="guest">801 11 000
+            <p class="titlepayment">E-mail
+            <p class="guest">youare@gmail.com</p>
+            <p class="titlepayment">Payment</p>
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-cc-mastercard"></i>
+            <div>
+              <label for="cardnr" class="formtext"> Card number </label>
+              <input type="text" id="cardnr" name="cardnumber" class="cardnr">
+            </div>
+            <div>
+              <label for="date" class="formtext"> Expiration date </label>
+              <input type="text" id="date" name="date" class="date">
+            </div>
+            <div>
+              <label for="ccv" class="formtext"> CCV </label>
+              <input type="text" id="ccv" name="ccv" class="ccv">
+            </div>
+            <div>
+              <input type="submit" value="pay now" class="send" />
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+  <aside>
     <div class="slogan">
-      <img src="images/slogan.jpg" alt="slogan for Rainydays" />
+      <img src="images/slogan.jpg" alt="slogan for Rainydays, pushing the comfort zone" />
       <h1>We have jackets for every occasion</h1>
     </div>
     <div class="bannertext">
       <div class="banner">
-        <img src="images/hikingphoto.jpg" alt="Pictures of jackets" />
-        <img src="images/campingphoto.jpg" alt="Pictures of jackets" />
-        <img src="images/sightseeingphoto.jpg" alt="Pictures of jackets" />
-        <img src="images/skiingphoto.jpg" alt="Pictures of jackets" />
-        <img src="images/runningphoto.jpg" alt="Pictures of jackets" />
+
+        <div class="container2">
+          <img class="imgbanner1" src="images/hikingphoto.jpg" alt="Pictures of people on hiking" />
+          <div class="hiking">hiking</div>
+        </div>
+
+        <div class="container3">
+          <img class="imgbanner2" src="images/campingphoto.jpg" alt="Pictures of campingtent" />
+          <div class="camping">camping</div>
+        </div>
+
+        <div class="container4">
+          <img class="imgbanner3" src="images/sightseeingphoto.jpg" alt="Pictures of cityskyline" />
+          <div class="sightseing">sightseeing</div>
+        </div>
+
+        <div class="container5">
+          <img class="imgbanner4" src="images/skiingphoto.jpg" alt="Pictures of people skiing" />
+          <div class="skiing">skiing</div>
+        </div>
+
+        <div class="container6">
+          <img class="imgbanner5" src="images/runningphoto.jpg" alt="Pictures of people running" />
+          <div class="running">running</div>
+        </div>
       </div>
-      <h5 class="hiking">hiking</h5>
-      <h5 class="camping">camping</h5>
-      <h5 class="sightseing">sightseeing</h5>
-      <h5 class="skiing">skiing</h5>
-      <h5 class="running">running</h5>
     </div>
-  </body>
+  </aside>
+
 
   <footer>
     <section class="footer">
@@ -99,24 +158,16 @@
 
     <div class="linkfooter">
       <h2>Copyright &#169; 2020, All rights reserved</h2>
-      <a href="index.html"
-        ><img
-          src="images/logo.png"
-          alt="Logo for Rainydays"
-          width="143.33"
-          height="76.91"
-      /></a>
+      <a href="index.html"><img src="images/logo.png" alt="Logo for Rainydays" width="143.33" height="76.91" /></a>
       <h3>You can find us on social media</h3>
-      <a href="http://www.facebook.com"
-        ><img src="images/Icon facebook-square.png" alt="Logo for facebook"
-      /></a>
-      <a href="http://www.instagram.com"
-        ><img src="images/Icon instagram.png" alt="Logo for instagram"
-      /></a>
-      <a href="http://www.twitter.com"
-        ><img src="images/Icon twitter-square.png" alt="Logo for twitter"
-      /></a>
-      <img src="images/Icon share-alt-square.png" alt="Logo for share alt" />
+      <div class="socialmedia">
+        <a href="http://www.facebook.com"><i class="fab fa-facebook-square"></i></a>
+        <a href="http://www.instagram.com"><i class="fab fa-instagram"></i></a>
+        <a href="http://www.twitter.com"><i class="fab fa-twitter-square"></i></a>
+        <i class="fas fa-share-alt-square"></i>
+      </div>
     </div>
   </footer>
+</body>
+
 </html>
