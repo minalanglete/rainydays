@@ -684,3 +684,9 @@ body {
   text-transform: uppercase;
   padding: 10px 0px 2px 0px;
 }
+.send:hover,
+.payment:hover {
+  color: #fd934e;
+  background-color: #ffffff;
+  border: 1px solid #fd934e;
+}
