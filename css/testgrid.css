@@ -641,7 +641,7 @@ body {
 .cardnr,
 .date,
 .ccv,
-.username,
+.mailsignin,
 .passwordsignin {
   border: none;
   background-color: #c6c4ca;
@@ -674,9 +674,6 @@ body {
 }
 .ccv {
   width: 400px;
-}
-.username {
-  width: 350px;
 }
 .check,
 .guest {
@@ -845,4 +842,10 @@ body {
   text-align: left;
   max-width: 450px;
   margin: auto;
+}
+.mailsignin {
+  width: 340px;
+}
+.passwordsignin {
+  width: 340px;
 }
