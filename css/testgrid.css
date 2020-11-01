@@ -770,3 +770,8 @@ body {
 .textabout {
   text-align: left;
 }
+.linkstore {
+  color: #fd934e;
+  font-style: italic;
+  text-decoration: #fd934e;
+}
