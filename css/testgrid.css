@@ -665,3 +665,14 @@ body {
 .guest {
   font-size: 30px;
 }
+.send,
+.payment {
+  border: none;
+  background-color: #fd934e;
+  color: #ffffff;
+  text-align: center;
+  font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  font-size: 35px;
+  width: 450px;
+}
