@@ -664,7 +664,7 @@ body {
   width: 370px;
 }
 .cardnr {
-  width: 318px;
+  width: 317px;
 }
 .date {
   width: 300px;
@@ -722,4 +722,8 @@ body {
 .card .fab {
   width: 80px;
   color: #fd934e;
+}
+.shipped {
+  max-width: 450px;
+  margin: auto;
 }
