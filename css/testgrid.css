@@ -641,7 +641,8 @@ body {
 .cardnr,
 .date,
 .ccv,
-.username {
+.username,
+.passwordsignin {
   border: none;
   background-color: #c6c4ca;
   height: 40px;
@@ -837,5 +838,11 @@ body {
   text-decoration: none;
 }
 .paperplane .shopnow {
+  margin: auto;
+}
+/*-----------sign in-----------------------------------------------------------------*/
+.username,
+.passwordsignin {
+  text-align: center;
   margin: auto;
 }
