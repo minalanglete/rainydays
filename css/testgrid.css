@@ -876,7 +876,7 @@ body {
       "img4";
   }
   .top {
-    float: center;
-    margin-right: auto;
+    align-items: center;
+    margin: auto;
   }
 }
