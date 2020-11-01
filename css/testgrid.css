@@ -701,10 +701,11 @@ body {
   font-weight: normal;
   margin: 1px 0px 1px 0px;
 }
-.titlepayment {
+.titlepayment,
+.titlepayment2 {
   font-weight: bold;
 }
 .titlepayment2 {
   margin-bottom: 5px;
-  margin-top: 10px;
+  margin-top: 40px;
 }
