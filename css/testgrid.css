@@ -699,7 +699,8 @@ body {
   text-decoration: none;
 }
 .send:hover,
-.payment:hover {
+.payment:hover,
+.shopnow:hover {
   color: #fd934e;
   background-color: #ffffff;
   border: 1px solid #fd934e;
