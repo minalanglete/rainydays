@@ -743,8 +743,9 @@ body {
   color: #fd934e;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
+  margin-bottom: 5px;
 }
 .linkshipped .fab {
   color: #fd934e;
-  padding: 20px;
+  padding: 10px;
 }
