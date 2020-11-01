@@ -622,6 +622,8 @@ body {
 
 .rightcheckout .leftalign {
   text-align: left;
+  color: #e2e1e4;
+  text-transform: uppercase;
 }
 .formtext {
   background-color: #c6c4ca;
