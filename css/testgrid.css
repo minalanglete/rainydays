@@ -775,3 +775,7 @@ body {
   font-style: italic;
   text-decoration: #fd934e;
 }
+.marker .fas {
+  color: #fd934e;
+  margin-right: 200px;
+}
