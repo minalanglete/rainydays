@@ -699,7 +699,7 @@ body {
   font-size: 30px;
   font-style: normal;
   font-weight: normal;
-  margin-bottom: 1px;
+  margin: 1px 0px 1px 0px;
 }
 .titlepayment {
   font-weight: bold;
