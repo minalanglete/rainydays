@@ -694,7 +694,8 @@ body {
   border: 1px solid #fd934e;
 }
 .titlepayment,
-.textpayment {
+.textpayment,
+.titlepayment2 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 30px;
   font-style: normal;
