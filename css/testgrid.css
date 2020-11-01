@@ -710,3 +710,8 @@ body {
   margin-bottom: 5px;
   margin-top: 40px;
 }
+.card .fab {
+  width: 65px;
+  gap: 10px;
+  color: #fd934e;
+}
