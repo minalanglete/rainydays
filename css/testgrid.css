@@ -483,6 +483,7 @@ body {
 .leftcheckout {
   grid-area: leftcheckout;
   text-align: center;
+  padding-left: 0px;
 }
 .rightcheckout {
   grid-area: rightcheckout;
@@ -495,7 +496,6 @@ body {
   grid-gap: 20px;
   width: 850px;
   margin: auto;
-  padding-left: 0px;
   grid-template-areas: "leftcheckout rightcheckout";
 }
 .subtitleleft,
