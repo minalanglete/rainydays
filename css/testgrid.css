@@ -894,6 +894,6 @@ body {
     color: #fd934e;
   }
   header nav li {
-    display: inline-block;
+    display: block;
   }
 }
