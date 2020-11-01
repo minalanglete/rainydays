@@ -766,3 +766,6 @@ body {
   font-size: 25px;
   font-weight: bold;
 }
+.textabout {
+  text-align: left;
+}
