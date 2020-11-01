@@ -675,4 +675,7 @@ body {
     "Trebuchet MS", sans-serif;
   font-size: 35px;
   width: 450px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-transform: uppercase;
 }
