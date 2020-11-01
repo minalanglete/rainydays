@@ -495,7 +495,7 @@ body {
   grid-gap: 20px;
   width: 850px;
   margin: auto;
-  margin-left: 100px;
+  padding-left: 0px;
   grid-template-areas: "leftcheckout rightcheckout";
 }
 .subtitleleft,
