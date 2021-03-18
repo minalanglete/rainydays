@@ -926,14 +926,10 @@ body {
   padding-bottom: 20px;
 }
 
-input,
-textarea {
-  width: 100%;
-}
-
 #name,
 #address,
 #email {
   padding-bottom: 20px;
   margin-bottom: 20px;
+  width: 100%;
 }
