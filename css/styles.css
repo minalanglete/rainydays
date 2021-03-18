@@ -924,6 +924,7 @@ body {
   display: none;
 }
 
-input {
+input,
+textarea {
   width: 100%;
 }
