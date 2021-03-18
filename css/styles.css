@@ -929,5 +929,8 @@ body {
 input,
 textarea {
   width: 100%;
-  padding-top: 0px;
+}
+
+label {
+  padding: 0px;
 }
