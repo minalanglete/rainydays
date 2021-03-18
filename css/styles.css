@@ -931,7 +931,9 @@ textarea {
   width: 100%;
 }
 
-#name {
+#name,
+#address,
+#email {
   padding-bottom: 20px;
   margin-bottom: 20px;
 }
