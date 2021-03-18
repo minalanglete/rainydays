@@ -918,3 +918,12 @@ body {
     display: none;
   }
 }
+
+.form-error {
+  color: red;
+  display: none;
+}
+
+input {
+  width: 100%;
+}
