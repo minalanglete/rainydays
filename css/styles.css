@@ -922,7 +922,8 @@ body {
 .form-error {
   color: red;
   display: none;
-  font-size: 13px;
+  font-size: 18px;
+  padding-bottom: 20px;
 }
 
 input,
