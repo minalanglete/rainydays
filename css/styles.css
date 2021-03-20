@@ -43,10 +43,10 @@ header nav li {
 
 header nav a:hover,
 .top a:hover {
-  color: #fd934e;
+  color: #b94a00;
 }
 .nav .current {
-  color: #fd934e;
+  color: #b94a00;
   text-decoration: underline;
 }
 ul {
