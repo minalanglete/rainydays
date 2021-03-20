@@ -68,7 +68,7 @@ ul {
   margin-right: 20px;
 }
 .current {
-  color: #fd934e;
+  color: #b94a00;
 }
 
 /*-----------main-----------------------------------------------------------------*/
@@ -106,7 +106,7 @@ h1 {
   position: absolute;
   bottom: 60px;
   right: 20px;
-  color: #fd934e;
+  color: #b94a00;
 }
 .hrtext {
   position: absolute;
@@ -409,7 +409,7 @@ body {
   font-style: normal;
   font-weight: bold;
   margin: 0px;
-  color: #fd934e;
+  color: #b94a00;
 }
 .textjacket {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -457,7 +457,7 @@ body {
 .large:hover,
 .xlarge:hover {
   color: #ffffff;
-  background-color: #fd934e;
+  background-color: #b94a00;
 }
 .button {
   display: flex;
@@ -466,7 +466,7 @@ body {
 .addtobag,
 .checkout {
   color: #ffffff;
-  background-color: #fd934e;
+  background-color: #b94a00;
   text-transform: uppercase;
   text-align: center;
   padding: 10px 59px 3px 59px;
@@ -477,7 +477,7 @@ body {
 }
 .addtobag:hover,
 .checkout:hover {
-  color: #fd934e;
+  color: #b94a00;
   background-color: #ffffff;
 }
 
@@ -537,7 +537,7 @@ body {
   font-weight: bold;
 }
 .orange {
-  color: #fd934e;
+  color: #b94a00;
 }
 /*-----------checkout grid-----------------------------------------------------------------*/
 
@@ -553,7 +553,7 @@ body {
   padding: 0px;
 }
 .subtitleright {
-  color: #fd934e;
+  color: #b94a00;
   grid-area: subright;
   text-align: right;
   margin: 5px 0px 0px 0px;
@@ -699,7 +699,7 @@ body {
 .send,
 .payment {
   border: none;
-  background-color: #fd934e;
+  background-color: #b94a00;
   color: #ffffff;
   text-align: center;
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -715,9 +715,9 @@ body {
 .send:hover,
 .payment:hover,
 .shopnow:hover {
-  color: #fd934e;
+  color: #b94a00;
   background-color: #ffffff;
-  border: 1px solid #fd934e;
+  border: 1px solid #b94a00;
 }
 .titlepayment,
 .textpayment,
@@ -740,7 +740,7 @@ body {
 }
 .card .fab {
   width: 80px;
-  color: #fd934e;
+  color: #b94a00;
 }
 /* -----------shipped----------------------------------------------------------------*/
 
@@ -754,16 +754,16 @@ body {
 }
 .car {
   margin: 20px 0px 20px 0px;
-  color: #fd934e;
+  color: #b94a00;
 }
 .linkshipped {
-  color: #fd934e;
+  color: #b94a00;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   margin-bottom: 5px;
 }
 .linkshipped .fab {
-  color: #fd934e;
+  color: #b94a00;
   padding: 0px 10px 0px 10px;
   margin-top: 0px;
 }
@@ -793,12 +793,12 @@ body {
   font-weight: bold;
 }
 .linkstore {
-  color: #fd934e;
+  color: #b94a00;
   font-style: italic;
-  text-decoration: #fd934e;
+  text-decoration: #b94a00;
 }
 .marker .fas {
-  color: #fd934e;
+  color: #b94a00;
   text-align: right;
   margin: 0px -100px 0px 0px;
 }
@@ -833,7 +833,7 @@ body {
 /*-----------shop now button-----------------------------------------------------------------*/
 .shopnow {
   border: none;
-  background-color: #fd934e;
+  background-color: #b94a00;
   color: #ffffff;
   text-align: center;
   font-family: "DIN Condensed", "Gill Sans", "Gill Sans MT", Calibri,
@@ -904,7 +904,7 @@ body {
   }
   .hamburger-label {
     float: right;
-    color: #fd934e;
+    color: #b94a00;
   }
   header nav li {
     display: block;
