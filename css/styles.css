@@ -911,6 +911,7 @@ body {
   }
   .logo {
     max-width: 300px;
+    float: left;
   }
 }
 @media only screen and (min-width: 601px) {
