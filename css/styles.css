@@ -966,7 +966,7 @@ body {
   }
   .leftcheckout,
   .rightcheckout {
-    margin: auto;
+    margin-left: 0px;
     padding-left: 0px;
   }
 }
