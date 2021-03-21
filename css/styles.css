@@ -956,6 +956,9 @@ body {
     max-width: 100%;
     margin: auto;
   }
+  label {
+    width: 200px;
+  }
 }
 @media only screen and (min-width: 601px) {
   #hamburger-menu {
