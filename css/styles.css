@@ -976,7 +976,7 @@ body {
   }
   footer,
   header {
-    max-width: 100%;
+    max-width: 400px;
   }
 }
 @media only screen and (min-width: 601px) {
