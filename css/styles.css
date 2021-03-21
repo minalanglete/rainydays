@@ -877,7 +877,14 @@ body {
   width: 100%;
 }
 
-a .addtobag {
+a:link .addtobag {
+  text-decoration: none;
+}
+
+a:visited .addtobag {
+  text-decoration: none;
+}
+.addtobag {
   text-decoration: none;
 }
 
