@@ -861,6 +861,22 @@ body {
 .passwordsignin {
   width: 343px;
 }
+
+.form-error {
+  color: red;
+  display: none;
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+
+#name,
+#address,
+#email {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
 /*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
   aside,
@@ -948,19 +964,4 @@ body {
   label .fas {
     display: none;
   }
-}
-
-.form-error {
-  color: red;
-  display: none;
-  font-size: 18px;
-  padding-bottom: 20px;
-}
-
-#name,
-#address,
-#email {
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-  width: 100%;
 }
