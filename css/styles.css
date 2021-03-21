@@ -911,6 +911,9 @@ body {
   header nav li {
     display: block;
   }
+  label i {
+    padding-left: 10px;
+  }
   .logo {
     max-width: 300px;
     margin-left: 0px;
