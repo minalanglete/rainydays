@@ -981,12 +981,13 @@ body {
 
   .left {
     grid-area: leftjacket;
+    max-width: 400px;
   }
   .right {
     grid-area: rightjacket;
     max-width: 400px;
     background-image: none;
-    padding: 0px 10px 0px 70px;
+    padding: 0px 10px 0px 60px;
   }
   .jacketshowing {
     max-width: 400px;
