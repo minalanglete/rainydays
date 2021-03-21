@@ -914,6 +914,9 @@ body {
     margin-left: 0px;
     padding-left: 20px;
   }
+  .text {
+    font-size: 15px;
+  }
 }
 @media only screen and (min-width: 601px) {
   #hamburger-menu {
