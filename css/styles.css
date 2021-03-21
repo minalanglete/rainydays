@@ -901,6 +901,7 @@ body {
 
   #hamburger-menu:checked ~ nav {
     display: block;
+    padding-left: 10px;
   }
   .hamburger-label {
     float: right;
@@ -916,9 +917,6 @@ body {
   }
   .text {
     font-size: 25px;
-  }
-  header {
-    padding-left: 20px;
   }
 }
 @media only screen and (min-width: 601px) {
