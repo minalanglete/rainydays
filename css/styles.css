@@ -966,11 +966,8 @@ body {
   }
   .leftcheckout,
   .rightcheckout {
-    margin-left: 0px;
-    padding-left: 0px;
-  }
-  hr {
     margin: 0px;
+    padding-left: 0px;
   }
 }
 @media only screen and (min-width: 601px) {
