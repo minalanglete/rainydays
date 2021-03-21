@@ -968,10 +968,11 @@ body {
   .rightcheckout {
     margin: 0px;
     padding-left: 0px;
+    padding-right: 0px;
     max-width: 300px;
   }
   hr {
-    max-width: 200px;
+    max-width: 300px;
   }
 }
 @media only screen and (min-width: 601px) {
