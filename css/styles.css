@@ -1010,6 +1010,9 @@ body {
     padding-left: 10px;
     padding-right: 10px;
   }
+  .titlejacket {
+    font-size: 30px;
+  }
 }
 @media only screen and (min-width: 601px) {
   #hamburger-menu {
