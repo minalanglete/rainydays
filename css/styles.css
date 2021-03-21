@@ -953,7 +953,7 @@ body {
       "rightside";
   }
   .form {
-    max-width: 100%;
+    max-width: 100px;
     margin: auto;
   }
   #name,
