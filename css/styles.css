@@ -985,19 +985,19 @@ body {
   }
   .right {
     grid-area: rightjacket;
-    max-width: 400px;
+    max-width: 300px;
     background-image: none;
     padding: 0px 10px 10px 70px;
   }
   .jacketshowing {
-    max-width: 400px;
+    max-width: 300px;
     display: grid;
     grid-template-areas:
       "leftjacket"
       "rightjacket";
   }
   .show {
-    max-width: 400px;
+    max-width: 300px;
     padding-left: 10px;
   }
   .size,
