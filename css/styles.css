@@ -954,7 +954,7 @@ body {
       "rightside";
   }
   .form {
-    max-width: 300px;
+    max-width: 400px;
     margin: auto;
   }
   #name,
@@ -963,6 +963,11 @@ body {
     padding-bottom: 20px;
     margin: auto;
     max-width: 100%;
+  }
+  .leftcheckout,
+  .rightcheckout {
+    margin: auto;
+    padding-left: 0px;
   }
 }
 @media only screen and (min-width: 601px) {
