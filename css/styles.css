@@ -985,6 +985,7 @@ body {
   .right {
     grid-area: rightjacket;
     max-width: 400px;
+    background-image: none;
   }
   .jacketshowing {
     max-width: 400px;
