@@ -911,8 +911,7 @@ body {
   }
   .logo {
     max-width: 300px;
-    margin-left: 0px;
-    padding-left: 20px;
+    margin: auto;
   }
   .text {
     font-size: 25px;
