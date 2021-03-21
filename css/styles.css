@@ -910,7 +910,7 @@ body {
     display: block;
   }
   .logo {
-    max-width: 400px;
+    width: 100%;
   }
 }
 @media only screen and (min-width: 601px) {
