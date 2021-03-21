@@ -877,17 +877,6 @@ body {
   width: 100%;
 }
 
-a:link .addtobag {
-  text-decoration: none;
-}
-
-a:visited .addtobag {
-  text-decoration: none;
-}
-.addtobag {
-  text-decoration: none;
-}
-
 /*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
   aside,
