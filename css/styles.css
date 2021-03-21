@@ -906,6 +906,7 @@ body {
   .hamburger-label {
     float: right;
     color: #b94a00;
+    padding-left: 10px;
   }
   header nav li {
     display: block;
