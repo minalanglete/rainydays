@@ -994,7 +994,7 @@ body {
   .jacketshowing {
     max-width: 300px;
     padding-left: 10px;
-    justify-content: none;
+    justify-content: left;
     display: grid;
     grid-template-areas:
       "leftjacket"
