@@ -922,6 +922,18 @@ body {
   .text {
     font-size: 25px;
   }
+  .leftcheckout {
+    grid-area: leftside;
+  }
+  .rightcheckout {
+    grid-area: rightside;
+  }
+  .checkoutpage {
+    display: grid;
+    grid-template-areas:
+      "leftside"
+      "rightside";
+  }
 }
 @media only screen and (min-width: 601px) {
   #hamburger-menu {
