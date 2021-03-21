@@ -1000,6 +1000,7 @@ body {
   .show {
     max-width: 300px;
     padding-left: 10px;
+    margin-left: 10px;
   }
   .size,
   .display {
