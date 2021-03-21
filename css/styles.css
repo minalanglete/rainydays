@@ -956,7 +956,7 @@ body {
     max-width: 100%;
     margin: auto;
   }
-  label {
+  input {
     width: 200px;
   }
 }
