@@ -982,6 +982,8 @@ body {
   .left {
     grid-area: leftjacket;
     max-width: 300px;
+    padding-left: 10px;
+    margin-left: 10px;
   }
   .right {
     grid-area: rightjacket;
@@ -999,8 +1001,6 @@ body {
   }
   .show {
     max-width: 300px;
-    padding-left: 10px;
-    margin-left: 10px;
   }
   .size,
   .display {
