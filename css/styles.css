@@ -909,6 +909,9 @@ body {
   header nav li {
     display: block;
   }
+  .logo {
+    width: 100%;
+  }
 }
 @media only screen and (min-width: 601px) {
   #hamburger-menu {
