@@ -929,6 +929,8 @@ body {
     grid-area: rightside;
   }
   .checkoutpage {
+    margin: auto;
+    max-width: 100%;
     display: grid;
     grid-template-areas:
       "leftside"
