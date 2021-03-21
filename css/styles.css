@@ -989,7 +989,7 @@ body {
     grid-area: rightjacket;
     max-width: 300px;
     background-image: none;
-    padding: 0px 10px 10px 70px;
+    padding: 0px 10px 10px 10px;
   }
   .jacketshowing {
     max-width: 300px;
