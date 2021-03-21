@@ -876,6 +876,9 @@ body {
   margin-bottom: 20px;
   width: 100%;
 }
+.addtobag {
+  text-decoration: none;
+}
 
 /*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
