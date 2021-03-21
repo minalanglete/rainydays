@@ -936,8 +936,8 @@ body {
       "leftside"
       "rightside";
   }
-  #contactForm {
-    width: 100%;
+  .form {
+    max-width: 100%;
     margin: auto;
   }
 }
