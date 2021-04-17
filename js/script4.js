@@ -14,7 +14,7 @@ async function getJacket() {
 
     resultsContainer.innerHTML = "";
 
-    for (let i = 0; i < jacket.length; i++) {
+    for (let i = 3; i < jacket.length; i++) {
         console.log(jacket[i].name);
         console.log(jacket[i].prices);
         console.log(jacket[i].images[0].src);
