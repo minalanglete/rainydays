@@ -38,6 +38,7 @@ async function getProduct() {
                                             <a href="checkout.html" class="checkout1">
                                                 <div class="checkout">checkout</div></a>
                                         </div>
+                                            <p class="categories">Categories: ${product.categories[0].name}</p>
                                         </div>
                                         </div>`;                               
 

@@ -955,6 +955,12 @@ a:link {
   text-decoration: none;
   color: #494757;
 }
+.categories {
+  font-weight: lighter;
+  font-style: italic;
+  color: #1a7589;
+  font-size: 20px;
+}
 /*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
   aside,
