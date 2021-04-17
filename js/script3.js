@@ -33,7 +33,7 @@ async function getProduct() {
                                         Price: ${product.price_html}.00
                                         ${product.short_description}
                                         <div class="button">
-                                            <a href="jacket_addbag.html" class="baggis">
+                                            <a href="checkout.html" class="baggis">
                                                 <div class="addtobag">add to bag</div></a>
                                             <a href="checkout.html" class="checkout1">
                                                 <div class="checkout">checkout</div></a>
