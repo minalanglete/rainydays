@@ -1,4 +1,4 @@
-const url = "http://minadesign.one/wp-json/wc/store/products";
+const url = "https://minadesign.one/wp-json/wc/store/products";
 
 const resultsContainer = document.querySelector(".results");
 

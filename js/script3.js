@@ -7,7 +7,7 @@ const id = params.get("id");
 console.log(id);
 
 
-const url = "http://minadesign.one/wp-json/wc/store/products/" +id;
+const url = "https://minadesign.one/wp-json/wc/store/products/" +id;
 
 
 const resultsContainer = document.querySelector(".productresult");
