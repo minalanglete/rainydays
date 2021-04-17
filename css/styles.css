@@ -885,6 +885,76 @@ body {
   color: #b94a00;
 }
 
+/*-----------api changes----------------------------------------------------------------*/
+.imagejacket {
+  grid-area: imageleftside;
+  max-height: 400px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 40px;
+  padding-right: 20px;
+}
+.productjacket {
+  grid-area: textrightside;
+  margin: 0px;
+  padding: 0px;
+}
+.productresult {
+  max-width: 100%;
+  margin: auto;
+  display: grid;
+  grid-template-areas: "imageleftside textrightside";
+}
+.addtobag {
+  grid-area: buttontop;
+}
+.checkout {
+  grid-area: buttonbottom;
+}
+.button {
+  padding-top: 20px;
+  display: grid;
+  grid-template-areas:
+    "buttontop"
+    "buttonbottom";
+}
+h5 {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.imageindex {
+  max-height: 400px;
+  margin-top: 0px;
+}
+.results {
+  max-width: 900px;
+  margin: auto;
+  padding: 0px;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+h6 {
+  font-weight: bold;
+  font-size: 28px;
+  text-transform: uppercase;
+  padding: 0px;
+  margin: 0px;
+}
+.priceindex {
+  padding: 0px;
+  margin: 0px;
+}
+a:visited {
+  color: #494757;
+}
+a:link {
+  text-decoration: none;
+  color: #494757;
+}
 /*-----------media queries----------------------------------------------------------------*/
 @media only screen and (max-width: 600px) {
   aside,
@@ -1023,6 +1093,21 @@ body {
   }
   .titlejacket {
     font-size: 30px;
+  }
+  .productresult {
+    margin-left: 10px;
+    padding: 0px;
+    display: grid;
+    grid-template-areas:
+      "imageleftside"
+      "textrightside";
+  }
+  .productjacket {
+    margin-right: 0px;
+    max-width: 300px;
+  }
+  .imagejacket {
+    margin-top: 2px;
   }
 }
 @media only screen and (min-width: 601px) {
