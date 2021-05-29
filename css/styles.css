@@ -937,6 +937,9 @@ h5 {
   flex-wrap: wrap;
   gap: 10px;
 }
+.results img:hover {
+  opacity: 0.8;
+}
 h6 {
   font-weight: bold;
   font-size: 28px;
